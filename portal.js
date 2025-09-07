@@ -1,177 +1,192 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // --- 状态管理 (不变) ---
-    let currentAlbumImages = [];
-    let currentPage = 1;
-    let itemsPerPage = 10;
-
-    // --- DOM 元素 (不变) ---
-    const sidebarContainer = document.getElementById('sidebar-container');
-    const toggleBtn = document.getElementById('sidebar-toggle-btn');
-    const currentAlbumInfo = document.getElementById('current-album-info');
-    const navPanel = document.getElementById('navigation-panel');
-    const contentPanel = document.getElementById('content-panel');
-    const galleryView = { /* ... */ };
-    const itemsPerPageSelect = document.getElementById('items-per-page');
-    const lightboxOverlay = document.getElementById('lightbox-overlay');
-    // (为了简洁，省略了未修改的DOM元素获取代码)
+    // --- 状态管理 & DOM 元素 (不变) ---
+    let currentAlbumImages = [], currentPage = 1, itemsPerPage = 5;
+    const sidebarContainer = document.getElementById('sidebar-container'),
+          toggleBtn = document.getElementById('sidebar-toggle-btn'),
+          currentAlbumInfo = document.getElementById('current-album-info'),
+          navPanel = document.getElementById('navigation-panel'),
+          contentPanel = document.getElementById('content-panel'),
+          galleryView = { /* ... */ },
+          itemsPerPageSelect = document.getElementById('items-per-page'),
+          lightboxOverlay = document.getElementById('lightbox-overlay');
     galleryView.controls = document.getElementById('gallery-controls');
     galleryView.welcome = document.getElementById('welcome-message');
     galleryView.container = document.getElementById('gallery-container');
     galleryView.pagination = document.getElementById('pagination-container');
 
-
-    // --- 导航/手风琴逻辑 (不变) ---
+    // --- 导航 & 内容加载 & 画廊渲染 (不变) ---
     function renderNavigation() { /* ... */ }
     function toggleCategory(categoryDiv) { /* ... */ }
-    // (为了简洁，省略了未修改的导航函数代码)
-    function renderNavigation() { navPanel.innerHTML = ''; const categories = Object.keys(galleryData).sort(); categories.forEach(categoryName => { const categoryDiv = document.createElement('div'); categoryDiv.className = 'nav-category'; const titleDiv = document.createElement('div'); titleDiv.className = 'category-title'; titleDiv.textContent = categoryName; titleDiv.onclick = () => toggleCategory(categoryDiv); const albumList = document.createElement('ul'); albumList.className = 'album-list'; const albums = galleryData[categoryName]; const albumNames = Object.keys(albums).sort(); albumNames.forEach(albumName => { const li = document.createElement('li'); li.textContent = albumName; li.dataset.category = categoryName; li.dataset.album = albumName; li.onclick = (e) => { e.stopPropagation(); loadAlbum(categoryName, albumName, li); }; albumList.appendChild(li); }); categoryDiv.appendChild(titleDiv); categoryDiv.appendChild(albumList); navPanel.appendChild(categoryDiv); }); }
-    function toggleCategory(categoryDiv) { if (!categoryDiv.classList.contains('active')) { document.querySelectorAll('.nav-category.active').forEach(el => { el.classList.remove('active'); }); } categoryDiv.classList.toggle('active'); }
-
-
-    // --- 内容加载逻辑 (不变) ---
     function loadAlbum(categoryName, albumName, clickedLi) { /* ... */ }
-    // (为了简洁，省略了未修改的内容加载函数代码)
-    function loadAlbum(categoryName, albumName, clickedLi) { currentAlbumImages = galleryData[categoryName][albumName]; currentPage = 1; galleryView.welcome.classList.add('hidden'); galleryView.controls.classList.remove('hidden'); currentAlbumInfo.textContent = `${categoryName} / ${albumName}`; document.querySelectorAll('.album-list li.active').forEach(el => el.classList.remove('active')); clickedLi.classList.add('active'); renderGallery(); sidebarContainer.classList.add('collapsed'); toggleBtn.textContent = '☰'; }
-
-
-    // --- 图片画廊渲染 (不变) ---
     function renderGallery() { /* ... */ }
     function setupPagination() { /* ... */ }
-    // (为了简洁，省略了未修改的画廊渲染函数代码)
+    function renderNavigation() { navPanel.innerHTML = ''; const categories = Object.keys(galleryData).sort(); categories.forEach(categoryName => { const categoryDiv = document.createElement('div'); categoryDiv.className = 'nav-category'; const titleDiv = document.createElement('div'); titleDiv.className = 'category-title'; titleDiv.textContent = categoryName; titleDiv.onclick = () => toggleCategory(categoryDiv); const albumList = document.createElement('ul'); albumList.className = 'album-list'; const albums = galleryData[categoryName]; const albumNames = Object.keys(albums).sort(); albumNames.forEach(albumName => { const li = document.createElement('li'); li.textContent = albumName; li.dataset.category = categoryName; li.dataset.album = albumName; li.onclick = (e) => { e.stopPropagation(); loadAlbum(categoryName, albumName, li); }; albumList.appendChild(li); }); categoryDiv.appendChild(titleDiv); categoryDiv.appendChild(albumList); navPanel.appendChild(categoryDiv); }); }
+    function toggleCategory(categoryDiv) { if (!categoryDiv.classList.contains('active')) { document.querySelectorAll('.nav-category.active').forEach(el => { el.classList.remove('active'); }); } categoryDiv.classList.toggle('active'); }
+    function loadAlbum(categoryName, albumName, clickedLi) { currentAlbumImages = galleryData[categoryName][albumName]; currentPage = 1; galleryView.welcome.classList.add('hidden'); galleryView.controls.classList.remove('hidden'); currentAlbumInfo.textContent = `${categoryName} / ${albumName}`; document.querySelectorAll('.album-list li.active').forEach(el => el.classList.remove('active')); clickedLi.classList.add('active'); renderGallery(); sidebarContainer.classList.add('collapsed'); toggleBtn.textContent = '☰'; }
     function renderGallery() { galleryView.container.innerHTML = ''; const startIndex = (currentPage - 1) * itemsPerPage; const endIndex = startIndex + itemsPerPage; const paginatedImages = currentAlbumImages.slice(startIndex, endIndex); paginatedImages.forEach(image => { const wrapper = document.createElement('div'); wrapper.className = 'image-wrapper'; const img = document.createElement('img'); img.src = image.src; img.alt = image.alt; const previewBtn = document.createElement('button'); previewBtn.textContent = '全屏预览'; previewBtn.className = 'preview-btn'; previewBtn.onclick = () => openLightbox(image.src); wrapper.appendChild(img); wrapper.appendChild(previewBtn); galleryView.container.appendChild(wrapper); }); setupPagination(); }
     function setupPagination() { galleryView.pagination.innerHTML = ''; if (currentAlbumImages.length <= itemsPerPage) return; const pageCount = Math.ceil(currentAlbumImages.length / itemsPerPage); const createBtn = (text, onClick, isDisabled = false, isActive = false) => { const btn = document.createElement('button'); btn.textContent = text; btn.className = 'pagination-btn'; btn.disabled = isDisabled; if (isActive) btn.classList.add('active'); btn.onclick = onClick; return btn; }; const handlePageChange = (newPage) => { currentPage = newPage; renderGallery(); contentPanel.scrollTo(0, 0); }; galleryView.pagination.appendChild(createBtn('上一页', () => handlePageChange(currentPage - 1), currentPage === 1)); for (let i = 1; i <= pageCount; i++) { galleryView.pagination.appendChild(createBtn(i, () => handlePageChange(i), false, i === currentPage)); } galleryView.pagination.appendChild(createBtn('下一页', () => handlePageChange(currentPage + 1), currentPage === pageCount)); }
 
 
-    // --- 灯箱逻辑 (关键修改点) ---
+    // --- 灯箱逻辑 ---
     function openLightbox(src) {
         document.body.classList.add('lightbox-open');
         lightboxOverlay.innerHTML = '';
         const img = document.createElement('img');
         img.src = src;
-        img.style.position = 'absolute'; // 确保 position 是 absolute
+        img.style.position = 'absolute';
         
         img.onload = () => {
-            // 不再设置 top/left，完全交由 transform 控制
             lightboxOverlay.appendChild(img);
             lightboxOverlay.classList.add('visible');
-            setupLightboxInteraction(img); // 调用全新的交互函数
+            setupLightboxInteraction(img);
         };
 
-        // 关闭事件 (不变)
-        lightboxOverlay.addEventListener('dblclick', closeLightbox);
         lightboxOverlay.addEventListener('click', (e) => {
-            if (e.target === lightboxOverlay) {
-                closeLightbox();
-            }
+            if (e.target === lightboxOverlay) closeLightbox();
+        });
+        lightboxOverlay.addEventListener('dblclick', (e) => {
+            if (e.target === lightboxOverlay) closeLightbox();
         });
     }
-
+    
     function closeLightbox() {
         document.body.classList.remove('lightbox-open');
         lightboxOverlay.classList.remove('visible');
-        lightboxOverlay.removeEventListener('dblclick', closeLightbox);
-        lightboxOverlay.removeEventListener('click', closeLightbox);
         setTimeout(() => { lightboxOverlay.innerHTML = ''; }, 300);
     }
-    
+
     /**
-     * 功能重构：设置灯箱内的交互，支持单指平移和双指缩放
-     * @param {HTMLElement} img - 灯箱中的图片元素
+     * 功能重构：最终修正版，使用纯数学方法进行精确缩放
      */
     function setupLightboxInteraction(img) {
-        let scale = 1, translateX = 0, translateY = 0;
-        let startDistance = 0, startScale = 1;
-        let startX = 0, startY = 0, startTranslateX = 0, startTranslateY = 0;
+        let matrix = [1, 0, 0, 1, 0, 0]; // [a, b, c, d, e, f] -> scale, skew, skew, scale, tx, ty
+        let lastTouch = { x: 0, y: 0, time: 0, distance: 0 };
+        let isDragging = false, isPinching = false;
 
-        // 将图片初始居中
-        translateX = (window.innerWidth - img.width) / 2;
-        translateY = (window.innerHeight - img.height) / 2;
-        applyTransform();
+        const fitScale = Math.min(window.innerWidth / img.naturalWidth, window.innerHeight / img.naturalHeight) * 0.95;
+        matrix[0] = matrix[3] = fitScale;
+        matrix[4] = (window.innerWidth - img.naturalWidth * fitScale) / 2;
+        matrix[5] = (window.innerHeight - img.naturalHeight * fitScale) / 2;
+        applyTransform(false);
 
-        function getDistance(touches) {
-            return Math.hypot(touches[0].clientX - touches[1].clientX, touches[0].clientY - touches[1].clientY);
+        function applyTransform(useTransition = true) {
+            img.style.transform = `matrix(${matrix.join(',')})`;
+            img.style.transition = useTransition && !isDragging && !isPinching ? 'transform 0.3s ease' : 'none';
         }
 
-        function applyTransform() {
-            img.style.transform = `translate(${translateX}px, ${translateY}px) scale(${scale})`;
-        }
+        function getDistance(p1, p2) { return Math.hypot(p1.clientX - p2.clientX, p1.clientY - p2.clientY); }
+        function getMidpoint(p1, p2) { return { x: (p1.clientX + p2.clientX) / 2, y: (p1.clientY + p2.clientY) / 2 }; }
 
-        function onInteractionStart(e) {
+        function onPointerDown(e) {
             e.preventDefault();
-            window.addEventListener('mousemove', onInteractionMove);
-            window.addEventListener('touchmove', onInteractionMove, { passive: false });
-            window.addEventListener('mouseup', onInteractionEnd);
-            window.addEventListener('touchend', onInteractionEnd);
+            isDragging = true;
+            const point = e.touches ? e.touches[0] : e;
+            lastTouch.x = point.clientX;
+            lastTouch.y = point.clientY;
+            
+            if (e.touches) {
+                const now = Date.now();
+                if (now - lastTouch.time < 300) { handleDoubleClick(e.touches[0]); }
+                lastTouch.time = now;
+            }
 
-            if (e.touches && e.touches.length === 2) { // 双指缩放
-                img.classList.add('grabbing');
-                startDistance = getDistance(e.touches);
-                startScale = scale;
-            } else { // 单指平移
-                img.classList.add('grabbing');
-                const point = e.touches ? e.touches[0] : e;
-                startX = point.clientX;
-                startY = point.clientY;
-                startTranslateX = translateX;
-                startTranslateY = translateY;
+            if (e.touches && e.touches.length === 2) {
+                isPinching = true;
+                lastTouch.distance = getDistance(e.touches[0], e.touches[1]);
             }
         }
 
-        function onInteractionMove(e) {
+        function onPointerMove(e) {
+            if (!isDragging) return;
             e.preventDefault();
-            if (e.touches && e.touches.length === 2) { // 双指缩放
-                const currentDistance = getDistance(e.touches);
-                const newScale = startScale * (currentDistance / startDistance);
-                // 限制缩放范围
-                scale = Math.max(0.5, Math.min(newScale, 5)); 
-                applyTransform();
-            } else if (!e.touches || e.touches.length === 1) { // 单指平移
+
+            if (isPinching && e.touches.length === 2) {
+                const newDist = getDistance(e.touches[0], e.touches[1]);
+                const scaleRatio = newDist / lastTouch.distance;
+                lastTouch.distance = newDist;
+                const midpoint = getMidpoint(e.touches[0], e.touches[1]);
+                zoom(scaleRatio, midpoint);
+            } else if (!isPinching) {
                 const point = e.touches ? e.touches[0] : e;
-                const dx = point.clientX - startX;
-                const dy = point.clientY - startY;
-                translateX = startTranslateX + dx;
-                translateY = startTranslateY + dy;
-                applyTransform();
+                const dx = point.clientX - lastTouch.x;
+                const dy = point.clientY - lastTouch.y;
+                matrix[4] += dx;
+                matrix[5] += dy;
+                lastTouch.x = point.clientX;
+                lastTouch.y = point.clientY;
+                applyTransform(false);
             }
         }
 
-        function onInteractionEnd(e) {
-            img.classList.remove('grabbing');
-            window.removeEventListener('mousemove', onInteractionMove);
-            window.removeEventListener('touchmove', onInteractionMove);
-            window.removeEventListener('mouseup', onInteractionEnd);
-            window.removeEventListener('touchend', onInteractionEnd);
-
-            // 如果从双指变为单指，则重置为平移的起始状态
-            if (e.touches && e.touches.length === 1) {
-                const point = e.touches[0];
-                startX = point.clientX;
-                startY = point.clientY;
-                startTranslateX = translateX;
-                startTranslateY = translateY;
-            }
+        function onPointerUp(e) {
+            isDragging = false;
+            if (e.touches && e.touches.length < 2) isPinching = false;
+            if (!e.touches || e.touches.length === 0) isPinching = false;
         }
 
-        img.addEventListener('mousedown', onInteractionStart);
-        img.addEventListener('touchstart', onInteractionStart, { passive: false });
+        function handleDoubleClick(point) {
+            let currentScale = matrix[0];
+            let nextScale = (Math.abs(currentScale - 1.0) < 0.05) ? fitScale : 1.0;
+            const scaleRatio = nextScale / currentScale;
+            zoom(scaleRatio, { x: point.clientX, y: point.clientY }, true);
+        }
+
+        // --- 核心修正：纯数学缩放函数 ---
+        function zoom(scaleRatio, center, useTransition = false) {
+            const currentScale = matrix[0];
+            let newScale = currentScale * scaleRatio;
+            newScale = Math.max(0.2, Math.min(newScale, 5));
+            scaleRatio = newScale / currentScale;
+
+            if (scaleRatio === 1) return;
+
+            // 1. 获取当前的平移量
+            const currentTx = matrix[4];
+            const currentTy = matrix[5];
+
+            // 2. 计算新的平移量
+            // 公式: T' = C - (C - T) * ratio
+            // T' is new translation, C is center point, T is current translation
+            const newTx = center.x - (center.x - currentTx) * scaleRatio;
+            const newTy = center.y - (center.y - currentTy) * scaleRatio;
+
+            // 3. 更新矩阵
+            matrix[0] = newScale;
+            matrix[3] = newScale;
+            matrix[4] = newTx;
+            matrix[5] = newTy;
+
+            applyTransform(useTransition);
+        }
+
+        img.addEventListener('mousedown', onPointerDown);
+        img.addEventListener('touchstart', onPointerDown, { passive: false });
+        window.addEventListener('mousemove', onPointerMove, { passive: false });
+        window.addEventListener('touchmove', onPointerMove, { passive: false });
+        window.addEventListener('mouseup', onPointerUp);
+        window.addEventListener('touchend', onPointerUp);
     }
 
-    // --- 事件监听 (不变) ---
-    toggleBtn.addEventListener('click', () => {
-        const isCollapsed = sidebarContainer.classList.toggle('collapsed');
-        toggleBtn.textContent = isCollapsed ? '☰' : '✕';
-    });
-    itemsPerPageSelect.addEventListener('change', (e) => {
-        itemsPerPage = parseInt(e.target.value, 10);
-        currentPage = 1;
-        renderGallery();
-    });
+    // --- 事件监听 & 初始化 ---
+    function setupEventListeners() {
+        toggleBtn.addEventListener('click', () => {
+            const isCollapsed = sidebarContainer.classList.toggle('collapsed');
+            toggleBtn.textContent = isCollapsed ? '☰' : '✕';
+        });
+        
+        itemsPerPageSelect.addEventListener('change', (e) => {
+            itemsPerPage = parseInt(e.target.value, 10);
+            currentPage = 1;
+            renderGallery();
+        });
+    }
 
-    // --- 初始化 (不变) ---
     function init() {
+        itemsPerPageSelect.value = itemsPerPage;
         renderNavigation();
         sidebarContainer.classList.add('collapsed');
     }
 
+    setupEventListeners();
     init();
 });
