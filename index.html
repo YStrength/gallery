@@ -5,35 +5,39 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>我的相册门户</title>
     <link rel="stylesheet" href="portal.css">
+    <!-- 关键：引入JSZip和FileSaver库 -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
 </head>
 <body>
 
-    <!-- 新增：独立的侧边栏切换按钮 -->
     <button id="sidebar-toggle-btn">☰</button>
 
-    <!-- 新增：将header和nav包裹在一个容器里 -->
     <div id="sidebar-container">
         <header class="main-header">
             <h1 id="page-title">相册导航</h1>
             <span id="current-album-info"></span>
         </header>
-
-        <nav id="navigation-panel">
-            <!-- 导航内容将由 JS 动态生成 -->
-        </nav>
+        <nav id="navigation-panel"></nav>
     </div>
-
-    <!-- 内容展示区 (结构不变) -->
+    
     <main id="content-panel">
         <div id="gallery-view">
             <div id="gallery-controls" class="hidden">
-                <label for="items-per-page">每页显示:</label>
-                <select id="items-per-page">
-                    <option value="5" selected>5 张</option>
-                    <option value="10">10 张</option>
-                    <option value="15">15 张</option>
-                    <option value="20">20 张</option>
-                </select>
+                <div class="control-group">
+                    <label for="items-per-page">每页显示:</label>
+                    <select id="items-per-page">
+                        <option value="5">5 张</option>
+                        <option value="10">10 张</option>
+                        <option value="15">15 张</option>
+                        <option value="20">20 张</option>
+                    </select>
+                </div>
+                <!-- 新增：下载按钮组 -->
+                <div class="control-group">
+                    <button id="download-current-btn" class="download-btn">下载当前页</button>
+                    <button id="download-all-btn" class="download-btn">下载全部</button>
+                </div>
             </div>
             <div id="welcome-message">
                 <h2>欢迎来到我的相册</h2>
@@ -46,8 +50,17 @@
 
     <!-- 全屏预览的灯箱容器 -->
     <div id="lightbox-overlay"></div>
+    
+    <!-- 新增：下载进度提示 -->
+    <div id="download-progress-overlay" class="hidden">
+        <div class="progress-box">
+            <p id="progress-text">正在准备下载...</p>
+            <div class="progress-bar-container">
+                <div id="progress-bar"></div>
+            </div>
+        </div>
+    </div>
 
-    <!-- 核心数据和逻辑 -->
     <script src="gallery-data.js"></script>
     <script src="portal.js"></script>
 
