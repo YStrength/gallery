@@ -1,55 +1,96 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="zh-CN" data-theme="classic">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="theme-color" content="#2c3e50">
     <title>我的相册门户</title>
     <link rel="stylesheet" href="portal.css">
 </head>
 <body>
 
-    <!-- 新增：独立的侧边栏切换按钮 -->
-    <button id="sidebar-toggle-btn">☰</button>
+    <!-- 跳转到内容（无障碍） -->
+    <a class="skip-link" href="#content-panel">跳到内容</a>
 
-    <!-- 新增：将header和nav包裹在一个容器里 -->
-    <div id="sidebar-container">
+    <!-- 侧边栏切换按钮 -->
+    <button id="sidebar-toggle-btn" aria-label="展开/收起导航">☰</button>
+
+    <!-- 侧边栏 -->
+    <aside id="sidebar-container" aria-label="相册导航侧边栏">
         <header class="main-header">
-            <h1 id="page-title">相册导航</h1>
-            <span id="current-album-info"></span>
+            <div class="brand">
+                <span class="logo-dot" aria-hidden="true"></span>
+                <h1 id="page-title">相册导航</h1>
+            </div>
+            <div class="header-right">
+                <span id="current-album-info" class="muted"></span>
+                <div class="theme-switcher" aria-label="切换主题">
+                    <button class="theme-dot" data-theme="classic" title="经典"></button>
+                    <button class="theme-dot" data-theme="ocean" title="蔚蓝"></button>
+                    <button class="theme-dot" data-theme="forest" title="森绿"></button>
+                    <button class="theme-dot" data-theme="sakura" title="樱粉"></button>
+                    <button class="theme-dot" data-theme="midnight" title="暗夜"></button>
+                    <button class="theme-dot" data-theme="sunset" title="暮光"></button>
+                    <button class="theme-dot" data-theme="royal" title="绛紫"></button>
+                </div>
+            </div>
         </header>
 
-        <nav id="navigation-panel">
-            <!-- 导航内容将由 JS 动态生成 -->
+        <nav id="navigation-panel" aria-label="相册分类与相册列表">
+            <!-- 导航内容由 JS 动态生成 -->
         </nav>
-    </div>
+        <footer class="sidebar-footer">
+            <span class="muted">双击/滚轮缩放，拖拽平移</span>
+        </footer>
+    </aside>
 
-    <!-- 内容展示区 (结构不变) -->
+    <!-- 内容展示区 -->
     <main id="content-panel">
-        <div id="gallery-view">
+        <!-- 粘性工具条（玻璃态） -->
+        <div id="toolbar" class="frosted">
             <div id="gallery-controls" class="hidden">
-                <label for="items-per-page">每页显示:</label>
-                <select id="items-per-page">
+                <label for="items-per-page" class="muted">每页显示</label>
+                <div class="segmented" role="group" aria-label="分页数量">
+                    <button class="seg-btn" data-items="5">5</button>
+                    <button class="seg-btn" data-items="10">10</button>
+                    <button class="seg-btn" data-items="20">20</button>
+                    <button class="seg-btn" data-items="all">全部</button>
+                </div>
+                <!-- 兼容与无障碍的下拉框（与分段按钮联动） -->
+                <select id="items-per-page" aria-label="每页显示张数">
                     <option value="5" selected>5 张</option>
                     <option value="10">10 张</option>
-                    <option value="15">15 张</option>
                     <option value="20">20 张</option>
+                    <option value="all">全部</option>
                 </select>
             </div>
-            <div id="welcome-message">
+        </div>
+
+        <!-- 欢迎区/Hero -->
+        <section id="welcome-message" class="hero">
+            <div class="hero-inner">
                 <h2>欢迎来到我的相册</h2>
-                <p>点击左上角菜单按钮 ☰ 打开导航。</p>
+                <p class="muted">点击左上角菜单按钮 ☰ 打开导航，选择一个相册开始浏览。</p>
             </div>
+        </section>
+
+        <!-- 画廊 -->
+        <section id="gallery-view" aria-live="polite">
             <div id="gallery-container"></div>
             <div id="pagination-container"></div>
-        </div>
+        </section>
     </main>
 
-    <!-- 全屏预览的灯箱容器 -->
-    <div id="lightbox-overlay"></div>
+    <!-- 灯箱 -->
+    <div id="lightbox-overlay" role="dialog" aria-modal="true" aria-label="图片预览">
+        <button id="lightbox-close" aria-label="关闭预览">×</button>
+        <div id="lightbox-hint" aria-hidden="true">
+            双击切换原始/适屏 · 滚轮/双指缩放 · 拖拽平移 · 点击空白关闭 · Esc 退出
+        </div>
+    </div>
 
-    <!-- 核心数据和逻辑 -->
+    <!-- 数据与逻辑 -->
     <script src="gallery-data.js"></script>
     <script src="portal.js"></script>
-
 </body>
 </html>
