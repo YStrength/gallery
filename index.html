@@ -1,96 +1,145 @@
 <!DOCTYPE html>
 <html lang="zh-CN" data-theme="classic">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-    <meta name="theme-color" content="#2c3e50">
-    <title>我的相册门户</title>
-    <link rel="stylesheet" href="portal.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#263146" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <title>我的相册门户</title>
+  <link rel="stylesheet" href="portal.css" />
 </head>
 <body>
+  <button id="sidebar-toggle-btn" aria-label="展开/收起导航">☰</button>
 
-    <!-- 跳转到内容（无障碍） -->
-    <a class="skip-link" href="#content-panel">跳到内容</a>
-
-    <!-- 侧边栏切换按钮 -->
-    <button id="sidebar-toggle-btn" aria-label="展开/收起导航">☰</button>
-
-    <!-- 侧边栏 -->
-    <aside id="sidebar-container" aria-label="相册导航侧边栏">
-        <header class="main-header">
-            <div class="brand">
-                <span class="logo-dot" aria-hidden="true"></span>
-                <h1 id="page-title">相册导航</h1>
-            </div>
-            <div class="header-right">
-                <span id="current-album-info" class="muted"></span>
-                <div class="theme-switcher" aria-label="切换主题">
-                    <button class="theme-dot" data-theme="classic" title="经典"></button>
-                    <button class="theme-dot" data-theme="ocean" title="蔚蓝"></button>
-                    <button class="theme-dot" data-theme="forest" title="森绿"></button>
-                    <button class="theme-dot" data-theme="sakura" title="樱粉"></button>
-                    <button class="theme-dot" data-theme="midnight" title="暗夜"></button>
-                    <button class="theme-dot" data-theme="sunset" title="暮光"></button>
-                    <button class="theme-dot" data-theme="royal" title="绛紫"></button>
-                </div>
-            </div>
-        </header>
-
-        <nav id="navigation-panel" aria-label="相册分类与相册列表">
-            <!-- 导航内容由 JS 动态生成 -->
-        </nav>
-        <footer class="sidebar-footer">
-            <span class="muted">双击/滚轮缩放，拖拽平移</span>
-        </footer>
-    </aside>
-
-    <!-- 内容展示区 -->
-    <main id="content-panel">
-        <!-- 粘性工具条（玻璃态） -->
-        <div id="toolbar" class="frosted">
-            <div id="gallery-controls" class="hidden">
-                <label for="items-per-page" class="muted">每页显示</label>
-                <div class="segmented" role="group" aria-label="分页数量">
-                    <button class="seg-btn" data-items="5">5</button>
-                    <button class="seg-btn" data-items="10">10</button>
-                    <button class="seg-btn" data-items="20">20</button>
-                    <button class="seg-btn" data-items="all">全部</button>
-                </div>
-                <!-- 兼容与无障碍的下拉框（与分段按钮联动） -->
-                <select id="items-per-page" aria-label="每页显示张数">
-                    <option value="5" selected>5 张</option>
-                    <option value="10">10 张</option>
-                    <option value="20">20 张</option>
-                    <option value="all">全部</option>
-                </select>
-            </div>
+  <div id="sidebar-container">
+    <header class="main-header">
+      <div class="brand">
+        <span class="logo-dot"></span>
+        <h1 id="page-title">相册导航</h1>
+      </div>
+      <div class="header-right">
+        <span id="current-album-info"></span>
+        <div class="theme-switcher" aria-label="切换主题">
+          <button class="theme-dot" data-theme="classic" title="经典"></button>
+          <button class="theme-dot" data-theme="ocean" title="蔚蓝"></button>
+          <button class="theme-dot" data-theme="forest" title="森绿"></button>
+          <button class="theme-dot" data-theme="sakura" title="樱粉"></button>
+          <button class="theme-dot" data-theme="midnight" title="暗夜"></button>
         </div>
+      </div>
+    </header>
 
-        <!-- 欢迎区/Hero -->
-        <section id="welcome-message" class="hero">
-            <div class="hero-inner">
-                <h2>欢迎来到我的相册</h2>
-                <p class="muted">点击左上角菜单按钮 ☰ 打开导航，选择一个相册开始浏览。</p>
-            </div>
-        </section>
+    <nav id="navigation-panel"></nav>
+  </div>
 
-        <!-- 画廊 -->
-        <section id="gallery-view" aria-live="polite">
-            <div id="gallery-container"></div>
-            <div id="pagination-container"></div>
-        </section>
-    </main>
-
-    <!-- 灯箱 -->
-    <div id="lightbox-overlay" role="dialog" aria-modal="true" aria-label="图片预览">
-        <button id="lightbox-close" aria-label="关闭预览">×</button>
-        <div id="lightbox-hint" aria-hidden="true">
-            双击切换原始/适屏 · 滚轮/双指缩放 · 拖拽平移 · 点击空白关闭 · Esc 退出
+  <main id="content-panel">
+    <section id="toolbar">
+      <div class="tool-group">
+        <span class="tool-label">每页显示</span>
+        <div class="seg" id="perpage-seg">
+          <button class="seg-btn active" data-value="5">5</button>
+          <button class="seg-btn" data-value="11">11</button>
+          <button class="seg-btn" data-value="21">21</button>
+          <button class="seg-btn" data-value="all">全部</button>
         </div>
+        <label class="sr-only" for="items-per-page">每页显示</label>
+        <select id="items-per-page" aria-label="每页显示张数" class="fallback-select">
+          <option value="5" selected>5 张/页</option>
+          <option value="11">11 张/页</option>
+          <option value="21">21 张/页</option>
+          <option value="all">全部</option>
+        </select>
+      </div>
+
+      <div class="tool-group">
+        <span class="tool-label">排序</span>
+        <div class="seg" id="sortmode-seg">
+          <button class="seg-btn active" data-mode="model">按模特</button>
+          <button class="seg-btn" data-mode="noAsc">刊数↑</button>
+          <button class="seg-btn" data-mode="noDesc">刊数↓</button>
+        </div>
+      </div>
+
+      <div class="tool-group">
+        <button id="offline-album-btn" class="ghost-btn" aria-label="离线缓存当前相册" disabled>离线当前相册</button>
+        <button id="offline-manager-btn" class="ghost-btn" aria-label="查看离线任务">离线管理</button>
+      </div>
+    </section>
+
+    <div id="gallery-view">
+      <div id="welcome-message" class="card">
+        <h2>欢迎来到我的相册</h2>
+        <p>点击左上角按钮 ☰ 打开导航，选择相册开始浏览。</p>
+      </div>
+
+      <div id="gallery-container" aria-live="polite"></div>
+      <div id="pagination-container"></div>
+    </div>
+  </main>
+
+  <!-- 灯箱 -->
+  <div id="lightbox-overlay" role="dialog" aria-modal="true" aria-label="图片预览">
+    <div id="lightbox-stage" aria-hidden="true"></div>
+    <button id="lightbox-close" aria-label="关闭预览">×</button>
+    <button id="lb-prev" class="nav-arrow" aria-label="上一张">‹</button>
+    <button id="lb-next" class="nav-arrow" aria-label="下一张">›</button>
+
+    <div id="lightbox-topbar" class="chrome">
+      <div id="lightbox-counter">0 / 0</div>
+      <div class="space"></div>
+      <button id="fit-toggle" class="ghost-btn" aria-label="切换适屏/原始">原始</button>
+      <button id="info-toggle" class="ghost-btn" aria-label="显示图片信息">信息</button>
     </div>
 
-    <!-- 数据与逻辑 -->
-    <script src="gallery-data.js"></script>
-    <script src="portal.js"></script>
+    <div id="lightbox-bottombar" class="chrome">
+      <div id="thumb-strip" aria-label="缩略图"></div>
+    </div>
+
+    <!-- 信息面板 -->
+    <div id="info-popover" class="chrome hidden" role="note" aria-live="polite">
+      <div class="info-row"><span class="label">分辨率</span><span id="img-resolution">-</span></div>
+      <div class="info-row"><span class="label">序号</span><span id="img-position">-</span></div>
+      <div class="info-row"><span class="label">相册路径</span><span id="img-path">-</span></div>
+      <div class="info-actions">
+        <button id="copy-img-link" class="ghost-btn" aria-label="复制图片直链">复制图片链接</button>
+        <button id="copy-album-link" class="ghost-btn" aria-label="复制相册链接">复制相册链接</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 轻提示 -->
+  <div id="toast" role="status" aria-live="polite"></div>
+
+  <!-- 离线管理面板 -->
+  <div id="offline-manager-overlay" class="modal-overlay hidden" role="dialog" aria-modal="true" aria-label="离线管理">
+    <div class="modal">
+      <div class="modal-header">
+        <h3>离线管理</h3>
+        <button id="offline-manager-close" class="modal-close" aria-label="关闭">×</button>
+      </div>
+      <div class="modal-body">
+        <div class="offline-stats">
+          <div class="stats-line">
+            <span id="cache-stats-text">已缓存图片：—</span>
+            <span id="threshold-warning" class="warn hidden">已超过提醒阈值，可能影响性能</span>
+          </div>
+          <div class="threshold-row">
+            <label for="threshold-input">提醒阈值(张)</label>
+            <input id="threshold-input" type="number" min="100" step="100" />
+            <button id="threshold-save" class="mini-btn">保存</button>
+            <button id="cache-refresh" class="mini-btn">刷新统计</button>
+          </div>
+        </div>
+        <h4>进行中</h4>
+        <div id="offline-list-inprogress" class="offline-list"></div>
+        <h4>已离线</h4>
+        <div id="offline-list-done" class="offline-list"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="gallery-data.js"></script>
+  <script src="portal.js"></script>
 </body>
 </html>
