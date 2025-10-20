@@ -111,17 +111,20 @@
   <!-- 轻提示 -->
   <div id="toast" role="status" aria-live="polite"></div>
 
-  <!-- 离线管理面板 -->
+  <!-- 离线管理面板（先显示，内容异步渲染） -->
   <div id="offline-manager-overlay" class="modal-overlay hidden" role="dialog" aria-modal="true" aria-label="离线管理">
     <div class="modal">
       <div class="modal-header">
         <h3>离线管理</h3>
-        <button id="offline-manager-close" class="modal-close" aria-label="关闭">×</button>
+        <div style="display:flex;gap:8px;align-items:center">
+          <button id="purge-all-btn" class="mini-btn danger" aria-label="清空所有缓存">清空所有缓存</button>
+          <button id="offline-manager-close" class="modal-close" aria-label="关闭">×</button>
+        </div>
       </div>
       <div class="modal-body">
         <div class="offline-stats">
           <div class="stats-line">
-            <span id="cache-stats-text">已缓存图片：—</span>
+            <span id="cache-stats-text">已缓存图片：计算中...</span>
             <span id="threshold-warning" class="warn hidden">已超过提醒阈值，可能影响性能</span>
           </div>
           <div class="threshold-row">
@@ -131,7 +134,7 @@
             <button id="cache-refresh" class="mini-btn">刷新统计</button>
           </div>
         </div>
-        <h4>进行中</h4>
+        <h4>进行中 / 部分离线</h4>
         <div id="offline-list-inprogress" class="offline-list"></div>
         <h4>已离线</h4>
         <div id="offline-list-done" class="offline-list"></div>
