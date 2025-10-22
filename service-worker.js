@@ -1,4 +1,9 @@
-/* PWA 缓存：核心 + 图片；支持相册离线、最近浏览、预加载入账、任务取消、专辑清除、全清、可选裁剪(默认关闭) */
+/* PWA 缓存：核心 + 图片；支持相册离线、预加载入账、任务取消、专辑清除、全清、可选裁剪(默认关闭)
+   修复点：
+   - 进度分 processed(处理进度) 与 addedTotal(新增数)
+   - 维护 per-album 已新增计数，达到 total 时主动发 CACHE_DONE
+   - CANCEL 返回 processed 与 addedTotal
+*/
 const CORE_CACHE = 'core-v1';
 const IMG_CACHE = 'img-v1';
 
@@ -11,14 +16,16 @@ const CORE_ASSETS = [
   './manifest.webmanifest'
 ];
 
-// 运行时设置（页面通过 postMessage 下发）
 const SW_SETTINGS = {
   trimEnabled: false,
   maxEntries: 120
 };
 
-// 取消标记表
-const cancelSet = new Set();
+// 运行数据
+const cancelSet = new Set();                  // 被取消的 albumKey
+const albumAdded = new Map();                 // albumKey -> 已新增(去重)数量
+const albumTotals = new Map();                // albumKey -> total
+const albumDoneSet = new Set();               // 已宣布 done 的 albumKey
 
 self.addEventListener('install', (event) => {
   event.waitUntil((async ()=>{
@@ -79,19 +86,21 @@ self.addEventListener('message', (event)=>{
   const { type, data } = event.data || {};
   if (type === 'CACHE_ALBUM') {
     const urls = (data?.urls)||[];
-    const albumKey = data?.albumKey || '';
-    event.waitUntil(cacheAlbum(urls, event.source, albumKey));
+    const key = data?.albumKey || '';
+    event.waitUntil(cacheAlbum(urls, event.source, key));
   } else if (type === 'CACHE_URL') {
     const url = data?.url;
-    const albumKey = data?.albumKey || '';
-    if (url) event.waitUntil(cacheOnePlus(url, event.source, albumKey));
+    const key = data?.albumKey || '';
+    const total = data?.total;
+    if (Number.isFinite(total)) albumTotals.set(key, total);
+    if (url) event.waitUntil(cacheOnePlus(url, event.source, key));
   } else if (type === 'CANCEL_ALBUM') {
-    const albumKey = data?.albumKey || '';
-    if (albumKey) cancelSet.add(albumKey);
+    const key = data?.albumKey || '';
+    if (key) cancelSet.add(key);
   } else if (type === 'PURGE_ALBUM') {
     const urls = (data?.urls)||[];
-    const albumKey = data?.albumKey || '';
-    event.waitUntil(purgeAlbum(urls, event.source, albumKey));
+    const key = data?.albumKey || '';
+    event.waitUntil(purgeAlbum(urls, event.source, key));
   } else if (type === 'PURGE_ALL') {
     event.waitUntil(purgeAll(event.source));
   } else if (type === 'UPDATE_SETTINGS') {
@@ -108,10 +117,15 @@ async function cacheOnePlus(url, source, albumKey){
     if (!hit) {
       const resp = await fetch(req);
       await cache.put(req, resp);
+      if (albumKey){
+        const cur = (albumAdded.get(albumKey)||0) + 1;
+        albumAdded.set(albumKey, cur);
+        maybeAnnounceDone(source, albumKey);
+      }
       if (SW_SETTINGS.trimEnabled) await trimCache(IMG_CACHE, SW_SETTINGS.maxEntries);
-      source?.postMessage({ type:'CACHE_ONE', data:{ albumKey, added:true } });
+      source?.postMessage({ type:'CACHE_ONE', data:{ albumKey, added:true, total: albumTotals.get(albumKey) } });
     } else {
-      source?.postMessage({ type:'CACHE_ONE', data:{ albumKey, added:false } });
+      source?.postMessage({ type:'CACHE_ONE', data:{ albumKey, added:false, total: albumTotals.get(albumKey) } });
     }
   }catch(e){
     // ignore
@@ -120,53 +134,82 @@ async function cacheOnePlus(url, source, albumKey){
 
 async function cacheAlbum(urls, source, albumKey){
   const total = urls.length;
-  const cache = await caches.open(IMG_CACHE);
-  let done = 0;
+  albumTotals.set(albumKey, total);
+  let processed = 0;
   for (const url of urls) {
     if (albumKey && cancelSet.has(albumKey)) break;
     try{
+      const cache = await caches.open(IMG_CACHE);
       const req = new Request(url, {mode:'no-cors', credentials:'omit'});
       const hit = await cache.match(req);
       if (!hit) {
         const resp = await fetch(req);
         await cache.put(req, resp);
+        // 仅新增时累计 added
+        const cur = (albumAdded.get(albumKey)||0) + 1;
+        albumAdded.set(albumKey, cur);
       }
     }catch(e){
       // ignore each
     }
-    done++;
-    source?.postMessage({ type:'CACHE_PROGRESS', data:{ done, total, albumKey } });
+    processed++;
+    source?.postMessage({ type:'CACHE_PROGRESS', data:{ processed, addedTotal:(albumAdded.get(albumKey)||0), total, albumKey } });
   }
   if (albumKey && cancelSet.has(albumKey)) {
     cancelSet.delete(albumKey);
-    source?.postMessage({ type:'CACHE_CANCELLED', data:{ albumKey, done } });
+    source?.postMessage({ type:'CACHE_CANCELLED', data:{ albumKey, processed, addedTotal:(albumAdded.get(albumKey)||0), total } });
     return;
   }
   if (SW_SETTINGS.trimEnabled) await trimCache(IMG_CACHE, SW_SETTINGS.maxEntries);
-  source?.postMessage({ type:'CACHE_DONE', data:{ albumKey, total } });
+  albumTotals.set(albumKey, total);
+  maybeAnnounceDone(source, albumKey, true);
+}
+
+function maybeAnnounceDone(source, albumKey, force=false){
+  const total = albumTotals.get(albumKey);
+  const added = albumAdded.get(albumKey)||0;
+  if (total && added >= total && !albumDoneSet.has(albumKey)){
+    albumDoneSet.add(albumKey);
+    source?.postMessage({ type:'CACHE_DONE', data:{ albumKey, total, addedTotal: added } });
+  }else if(force){
+    // 主动结束也发 DONE
+    source?.postMessage({ type:'CACHE_DONE', data:{ albumKey, total, addedTotal: added } });
+  }
 }
 
 async function purgeAlbum(urls, source, albumKey){
   const cache = await caches.open(IMG_CACHE);
-  const keys = await cache.keys();
-  const targets = new Set(urls);
   let removed = 0;
-  for (const req of keys){
-    if (targets.has(req.url)) {
-      const ok = await cache.delete(req);
-      if (ok) removed++;
-    }
+  // 删除目标
+  for (const url of urls){
+    const ok = await cache.delete(new Request(url, {mode:'no-cors', credentials:'omit'}));
+    if (ok) removed++;
+  }
+  // 重算该相册已缓存条目（以防外部重复 URL）
+  let remain = 0;
+  for (const url of urls){
+    const hit = await cache.match(new Request(url, {mode:'no-cors', credentials:'omit'}));
+    if (hit) remain++;
+  }
+  if (remain===0){
+    albumAdded.delete(albumKey);
+    albumTotals.delete(albumKey);
+    albumDoneSet.delete(albumKey);
+  }else{
+    albumAdded.set(albumKey, remain);
+    albumDoneSet.delete(albumKey);
   }
   source?.postMessage({ type:'PURGE_DONE', data:{ albumKey, removed } });
 }
 
 async function purgeAll(source){
-  const cache = await caches.open(IMG_CACHE);
-  const keys = await cache.keys();
-  const count = keys.length;
   await caches.delete(IMG_CACHE);
   await caches.open(IMG_CACHE); // recreate
-  source?.postMessage({ type:'PURGE_ALL_DONE', data:{ removed: count } });
+  cancelSet.clear();
+  albumAdded.clear();
+  albumTotals.clear();
+  albumDoneSet.clear();
+  source?.postMessage({ type:'PURGE_ALL_DONE', data:{ removed: 0 } });
 }
 
 async function trimCache(cacheName, max){

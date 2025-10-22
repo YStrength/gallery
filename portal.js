@@ -17,12 +17,17 @@ document.addEventListener('DOMContentLoaded', () => {
     winEnd: 0,
     swReady: false,
     swReg: null,
-    offlineMap: loadOfflineMap(), // albumKey -> {status: 'in-progress'|'done'|'partial', done, total, cat, album, ts}
-    threshold: loadThreshold()
+    offlineMap: loadOfflineMap(), // albumKey -> {status:'in-progress'|'partial'|'done', done, total, processed?, cat, album, ts}
+    threshold: loadThreshold(),
+    bgPreloadToken: null,          // 后台整册预载中止令牌
+    startingAlbums: new Set(),     // 前端发起但尚未收到首个进度的任务
+    msgQueue: [],                  // SW 消息队列（无 controller 时缓存）
+    statsScheduled: false          // 缓存统计节流
   };
 
-  // 简单图片内存缓存
+  // 简单图片内存缓存 + LRU
   const imageCache = new Map();
+  const MAX_CACHE_ENTRIES = 300;
 
   // ========== DOM ==========
   const sidebarContainer = document.getElementById('sidebar-container');
@@ -76,7 +81,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // 主题
   document.querySelectorAll('.theme-dot').forEach(b => b.addEventListener('click', () => applyTheme(b.dataset.theme)));
-  function applyTheme(theme){ document.documentElement.setAttribute('data-theme', theme); localStorage.setItem('gallery-theme', theme); document.querySelectorAll('.theme-dot').forEach(btn => btn.classList.toggle('active', btn.dataset.theme === theme)); }
+  function applyTheme(theme){
+    document.documentElement.setAttribute('data-theme', theme);
+    localStorage.setItem('gallery-theme', theme);
+    document.querySelectorAll('.theme-dot').forEach(btn => btn.classList.toggle('active', btn.dataset.theme === theme));
+  }
   (function initTheme(){ applyTheme(localStorage.getItem('gallery-theme') || 'classic'); })();
 
   // ========== 工具 ==========
@@ -84,9 +93,15 @@ document.addEventListener('DOMContentLoaded', () => {
   const extractIssueNo = (name) => { const m = (name || '').match(/(?:No|NO)\.(\d+)/); return m ? parseInt(m[1],10) : NaN; };
   function getAllAlbumsFlat(){ const ret=[]; const categories=Object.keys(galleryData||{}).sort(); categories.forEach(c=>{const albums=galleryData[c]||{}; Object.keys(albums).forEach(a=>ret.push({category:c,album:a,no:extractIssueNo(a)}));}); return ret; }
   const albumKey = (cat, album) => `${cat}::${album}`;
-  const parseAlbumKey = (key) => { const i = key.indexOf('::'); if(i<0) return {cat:'',album:''}; return {cat:key.slice(0,i), album:key.slice(i+2)}; };
+  const parseAlbumKey = (key)=>{ const i=key.indexOf('::'); return i<0?{cat:'',album:''}:{cat:key.slice(0,i),album:key.slice(i+2)}; };
   const getAlbumCount = (cat, album) => ((galleryData?.[cat]?.[album])||[]).length;
   const getAlbumUrls = (cat, album) => ((galleryData?.[cat]?.[album])||[]).map(x=>x.src).filter(Boolean);
+
+  function cssEscape(val){
+    if (window.CSS && CSS.escape) return CSS.escape(String(val));
+    // 简化兼容：对非字母数字与 _- 做十六进制转义
+    return String(val).replace(/[^a-zA-Z0-9_-]/g, ch => '\\' + ch.charCodeAt(0).toString(16) + ' ');
+  }
 
   function loadOfflineMap(){
     try{ return JSON.parse(localStorage.getItem('offline-albums')||'{}'); }catch(e){ return {}; }
@@ -111,7 +126,21 @@ document.addEventListener('DOMContentLoaded', () => {
     showToast._t = setTimeout(()=>toastEl.classList.remove('visible'), ms);
   }
 
-  // 预加载半径
+  function cacheFetch(src, priority='low'){
+    if (imageCache.has(src)) return imageCache.get(src);
+    const img = new Image();
+    img.decoding = 'async';
+    try { img.fetchPriority = priority; } catch(e){}
+    const p = new Promise((resolve)=>{ img.onload=()=>resolve(img); img.onerror=()=>resolve(img); });
+    img.src = src;
+    imageCache.set(src, p);
+    if (imageCache.size > MAX_CACHE_ENTRIES){
+      const firstKey = imageCache.keys().next().value;
+      imageCache.delete(firstKey);
+    }
+    return p;
+  }
+
   function preloadRadius(){
     if (!isFinite(itemsPerPage)) return Infinity;
     if (itemsPerPage === 5) return 2;
@@ -135,18 +164,6 @@ document.addEventListener('DOMContentLoaded', () => {
       setWindowAround(state.lbIndex);
       buildThumbStrip();
     }
-  }
-
-  // 内存缓存/预取
-  function cacheFetch(src, priority='low'){
-    if (imageCache.has(src)) return imageCache.get(src);
-    const img = new Image();
-    img.decoding = 'async';
-    try { img.fetchPriority = priority; } catch(e){}
-    const p = new Promise((resolve)=>{ img.onload=()=>resolve(img); img.onerror=()=>resolve(img); });
-    img.src = src;
-    imageCache.set(src, p);
-    return p;
   }
 
   // ========== 导航 ==========
@@ -234,10 +251,11 @@ document.addEventListener('DOMContentLoaded', () => {
       if(!badge) return;
       if(!rec){ badge.textContent=''; badge.className='badge badge-status'; return; }
       if(rec.status === 'in-progress'){
-        badge.textContent = `离线中 ${rec.done}/${rec.total}`;
+        const p = (rec.processed&&rec.total)? `${rec.processed}/${rec.total}` : `${rec.done||0}/${rec.total||0}`;
+        badge.textContent = `离线中 ${p}`;
         badge.className = 'badge badge-status progress';
       }else if(rec.status === 'partial'){
-        badge.textContent = `部分离线 ${rec.done}/${rec.total}`;
+        badge.textContent = `部分离线 ${rec.done||0}/${rec.total||0}`;
         badge.className = 'badge badge-status partial';
       }else if(rec.status === 'done'){
         badge.textContent = '已离线';
@@ -247,8 +265,6 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
   }
-
-  function cssEscape(s){ return String(s).replace(/["\\]/g, '\\$&'); }
 
   // ========== 相册与画廊 ==========
   function loadAlbum(categoryName, albumName, clickedLi){
@@ -273,12 +289,14 @@ document.addEventListener('DOMContentLoaded', () => {
     const startIndex = (currentPage - 1) * pageSize;
     const endIndex = Math.min(total, startIndex + pageSize);
     const paginated = currentAlbumImages.slice(startIndex, endIndex);
+    const key = albumKey(currentCategoryName, currentAlbumName);
 
     paginated.forEach((image, i)=>{
       const wrapper = document.createElement('div'); wrapper.className='image-wrapper';
       const img = document.createElement('img');
       img.src=image.src; img.alt=image.alt||''; img.loading='lazy'; img.decoding='async';
       img.addEventListener('click', ()=>openLightboxAt(startIndex + i));
+      img.addEventListener('load', ()=> postSWMessage('CACHE_URL', { url: image.src, albumKey: key, total }));
       const btn=document.createElement('button'); btn.className='preview-btn'; btn.textContent='全屏预览';
       btn.onclick=(e)=>{ e.stopPropagation(); openLightboxAt(startIndex + i); };
       wrapper.appendChild(img); wrapper.appendChild(btn); galleryView.container.appendChild(wrapper);
@@ -320,7 +338,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     infoPopover.classList.add('hidden');
 
-    if (!isFinite(itemsPerPage)) preloadAllInBackground();
+    // 新 token，旧 token 即失效（中止后台预载）
+    state.bgPreloadToken = {};
+    if (!isFinite(itemsPerPage)) preloadAllInBackground(state.bgPreloadToken);
   }
 
   function closeLightbox(){
@@ -333,6 +353,8 @@ document.addEventListener('DOMContentLoaded', () => {
     thumbStrip.innerHTML='';
     document.removeEventListener('keydown', keydownHandler);
     infoPopover.classList.add('hidden');
+    // 使当前预载 token 失效
+    state.bgPreloadToken = {};
   }
 
   function keydownHandler(e){
@@ -379,8 +401,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
       updateInfoPanel(img);
 
-      // 将当前显示图纳入“最近浏览/离线管理（partial）”
-      postSWMessage('CACHE_URL', { url: src, albumKey: albumKey(currentCategoryName, currentAlbumName) });
+      // 将当前图纳入最近浏览/partial
+      const key = albumKey(currentCategoryName, currentAlbumName);
+      postSWMessage('CACHE_URL', { url: src, albumKey: key, total: currentAlbumImages.length });
 
       const r = preloadRadius();
       if (isFinite(r)) preloadNeighbors(state.lbIndex, r);
@@ -402,21 +425,23 @@ document.addEventListener('DOMContentLoaded', () => {
       state.preloadedIdx.add(i);
       const u = currentAlbumImages[i].src;
       cacheFetch(u, 'low');
-      postSWMessage('CACHE_URL', { url: u, albumKey: key });
+      postSWMessage('CACHE_URL', { url: u, albumKey: key, total });
     }
   }
 
-  function preloadAllInBackground(){
+  function preloadAllInBackground(token){
     const all = currentAlbumImages.map(x=>x.src);
     let i = 0;
     const key = albumKey(currentCategoryName, currentAlbumName);
     const idle = window.requestIdleCallback || ((cb)=>setTimeout(()=>cb({timeRemaining:()=>20}), 200));
     function loop(){
+      if (token !== state.bgPreloadToken) return;
       idle((deadline)=>{
         while(deadline.timeRemaining()>5 && i<all.length){
+          if (token !== state.bgPreloadToken) return;
           const u = all[i++];
           cacheFetch(u,'low');
-          postSWMessage('CACHE_URL', { url: u, albumKey: key });
+          postSWMessage('CACHE_URL', { url: u, albumKey: key, total: all.length });
         }
         if(i<all.length) setTimeout(loop, 80);
       });
@@ -605,6 +630,11 @@ document.addEventListener('DOMContentLoaded', () => {
       offlineAlbumBtn.textContent = '离线当前相册';
       return;
     }
+    if (state.startingAlbums.has(key)){
+      offlineAlbumBtn.disabled = true;
+      offlineAlbumBtn.textContent = '准备中...';
+      return;
+    }
     if(rec && rec.status==='done'){
       offlineAlbumBtn.disabled = true;
       offlineAlbumBtn.textContent = '已离线';
@@ -615,75 +645,87 @@ document.addEventListener('DOMContentLoaded', () => {
       offlineAlbumBtn.textContent = '取消缓存';
       return;
     }
-    // 未开始或部分离线：允许“离线当前相册”（补全）
+    // 未开始或 partial：允许继续（补全）
     offlineAlbumBtn.disabled = false;
     offlineAlbumBtn.textContent = '离线当前相册';
   }
 
-  offlineAlbumBtn.addEventListener('click', async ()=>{
+  offlineAlbumBtn.addEventListener('click', ()=>{
     const key = albumKey(currentCategoryName, currentAlbumName);
     const rec = state.offlineMap[key];
     if(rec && rec.status==='in-progress'){
-      // 取消
+      // 取消进行中的相册
       postSWMessage('CANCEL_ALBUM', { albumKey: key });
-      offlineAlbumBtn.disabled = true; // 防抖直到收到取消回执
+      offlineAlbumBtn.disabled = true;
       return;
     }
-    // 启动离线（新建或补全）
+    // 发起离线（新建或补全），但防重复
+    if (state.startingAlbums.has(key)) return;
     const urls = (currentAlbumImages||[]).map(it=>it.src).filter(Boolean);
     if(!urls.length){ showToast('当前相册为空'); return; }
     if(!state.swReady){ showToast('离线功能不可用'); return; }
-    state.offlineMap[key] = { status:'in-progress', done:0, total:urls.length, cat:currentCategoryName, album:currentAlbumName, ts:Date.now() };
+
+    state.startingAlbums.add(key);
+    offlineAlbumBtn.disabled = true; offlineAlbumBtn.textContent = '准备中...';
+
+    state.offlineMap[key] = { status:'in-progress', done:rec?.done||0, processed:rec?.processed||0, total:urls.length, cat:currentCategoryName, album:currentAlbumName, ts:Date.now() };
     saveOfflineMap();
     updateAlbumStatusBadge(key);
     renderOfflineManagerLists();
-    updateOfflineButtonState();
-    postSWMessage('CACHE_ALBUM', { urls, albumKey: key });
+
+    // 少量延迟以避免连点误操作
+    setTimeout(()=> postSWMessage('CACHE_ALBUM', { urls, albumKey: key }), 100);
   });
 
   offlineManagerBtn.addEventListener('click', ()=>{
-    // 先展示，再异步渲染（修复 iOS Safari 卡顿）
+    // 先展示，再异步渲染（避免 iOS 卡顿）
     thresholdInput.value = String(state.threshold);
     offlineMgrOverlay.classList.remove('hidden');
-    // 异步刷新
     setTimeout(()=>{
       renderOfflineManagerLists();
-      updateCacheStatsUI();
+      scheduleCacheStatsUpdate();
     },0);
   });
   offlineMgrClose.addEventListener('click', ()=> offlineMgrOverlay.classList.add('hidden'));
   offlineMgrOverlay.addEventListener('click', (e)=>{ if(e.target===offlineMgrOverlay) offlineMgrOverlay.classList.add('hidden'); });
 
-  thresholdSaveBtn.addEventListener('click', async ()=>{
+  thresholdSaveBtn.addEventListener('click', ()=>{
     const v = parseInt(thresholdInput.value, 10);
     if(!Number.isFinite(v) || v<=0){ showToast('请输入有效的阈值'); return; }
     saveThreshold(v);
-    await updateCacheStatsUI();
+    scheduleCacheStatsUpdate(true);
     showToast('阈值已保存');
   });
-  cacheRefreshBtn.addEventListener('click', async ()=>{ await updateCacheStatsUI(); });
+  cacheRefreshBtn.addEventListener('click', ()=> scheduleCacheStatsUpdate(true));
 
   purgeAllBtn.addEventListener('click', ()=>{
     if(!confirm('确认清空所有图片缓存？此操作不可恢复。')) return;
     postSWMessage('PURGE_ALL', {});
   });
 
-  async function updateCacheStatsUI(){
-    try{
-      const cache = await caches.open('img-v1');
-      const keys = await cache.keys();
-      const count = keys.length;
-      cacheStatsText.textContent = `已缓存图片：${count} 张`;
-      if (count > state.threshold){
-        thresholdWarning.classList.remove('hidden');
-      }else{
+  function scheduleCacheStatsUpdate(force=false){
+    if (!isOverlayVisible() && !force) return;
+    if (state.statsScheduled) return;
+    state.statsScheduled = true;
+    setTimeout(async ()=>{
+      state.statsScheduled = false;
+      try{
+        const cache = await caches.open('img-v1');
+        const keys = await cache.keys();
+        const count = keys.length;
+        cacheStatsText.textContent = `已缓存图片：${count} 张`;
+        if (count > state.threshold){
+          thresholdWarning.classList.remove('hidden');
+        }else{
+          thresholdWarning.classList.add('hidden');
+        }
+      }catch(e){
+        cacheStatsText.textContent = '已缓存图片：—';
         thresholdWarning.classList.add('hidden');
       }
-    }catch(e){
-      cacheStatsText.textContent = '已缓存图片：—';
-      thresholdWarning.classList.add('hidden');
-    }
+    }, 300);
   }
+  function isOverlayVisible(){ return !offlineMgrOverlay.classList.contains('hidden'); }
 
   function renderOfflineManagerLists(){
     offlineListInprog.innerHTML=''; offlineListDone.innerHTML='';
@@ -697,29 +739,45 @@ document.addEventListener('DOMContentLoaded', () => {
       const title = document.createElement('div'); title.className='title'; title.textContent = `${rec.cat} / ${rec.album}`;
       const sub = document.createElement('div'); sub.className='sub';
       const isPartial = rec.status==='partial';
-      sub.textContent = (isPartial? '部分离线 ': '离线中 ') + `${rec.done}/${rec.total}`;
+      const pText = rec.status==='in-progress' && rec.processed && rec.total ? `${rec.processed}/${rec.total}` : `${rec.done||0}/${rec.total||0}`;
+      sub.textContent = (isPartial? '部分离线 ' : '离线中 ') + pText;
       meta.appendChild(title); meta.appendChild(sub);
 
       const prog = document.createElement('div'); prog.className='progress';
-      const bar = document.createElement('span'); bar.style.width = `${Math.round((rec.done/rec.total)*100)}%`;
+      const bar = document.createElement('span');
+      const denom = rec.total || 0;
+      const numerator = (rec.status==='in-progress' && rec.processed) ? rec.processed : (rec.done||0);
+      const percent = denom>0 ? Math.max(0, Math.min(100, Math.round(numerator/denom*100))) : 0;
+      bar.style.width = `${percent}%`;
       prog.appendChild(bar);
 
       const actions = document.createElement('div'); actions.className='offline-actions';
-      const cancelBtn = document.createElement('button'); cancelBtn.className='mini-btn'; cancelBtn.textContent='取消';
-      cancelBtn.onclick = ()=>{ cancelBtn.disabled=true; postSWMessage('CANCEL_ALBUM', { albumKey: key }); };
-      const contBtn = document.createElement('button'); contBtn.className='mini-btn primary'; contBtn.textContent='继续缓存';
-      contBtn.onclick = ()=>{
-        const urls = getAlbumUrls(rec.cat, rec.album);
-        state.offlineMap[key] = { status:'in-progress', done:rec.done||0, total:urls.length, cat:rec.cat, album:rec.album, ts:Date.now() };
-        saveOfflineMap();
-        updateAlbumStatusBadge(key);
-        renderOfflineManagerLists();
-        postSWMessage('CACHE_ALBUM', { urls, albumKey: key });
-      };
+
+      if (rec.status==='in-progress'){
+        const cancelBtn = document.createElement('button'); cancelBtn.className='mini-btn'; cancelBtn.textContent='取消';
+        cancelBtn.onclick = ()=>{ cancelBtn.disabled=true; postSWMessage('CANCEL_ALBUM', { albumKey: key }); };
+        actions.appendChild(cancelBtn);
+      }
+
+      if (rec.status==='partial'){
+        const contBtn = document.createElement('button'); contBtn.className='mini-btn primary'; contBtn.textContent='继续缓存';
+        contBtn.onclick = ()=>{
+          const urls = getAlbumUrls(rec.cat, rec.album);
+          // 防重复：若已经 in-progress 则不继续
+          const cur = state.offlineMap[key];
+          if (cur && cur.status==='in-progress') return;
+          state.offlineMap[key] = { status:'in-progress', done:rec.done||0, processed:rec.processed||0, total:urls.length, cat:rec.cat, album:rec.album, ts:Date.now() };
+          saveOfflineMap();
+          updateAlbumStatusBadge(key);
+          renderOfflineManagerLists();
+          postSWMessage('CACHE_ALBUM', { urls, albumKey: key });
+        };
+        actions.appendChild(contBtn);
+      }
+
       const purgeBtn = document.createElement('button'); purgeBtn.className='mini-btn danger'; purgeBtn.textContent='清除缓存';
       purgeBtn.onclick = ()=> purgeAlbumByKey(key, purgeBtn);
-
-      actions.appendChild(cancelBtn); actions.appendChild(contBtn); actions.appendChild(purgeBtn);
+      actions.appendChild(purgeBtn);
 
       item.appendChild(meta); item.appendChild(prog); item.appendChild(actions);
       offlineListInprog.appendChild(item);
@@ -752,7 +810,7 @@ document.addEventListener('DOMContentLoaded', () => {
     return navPanel.querySelector(`li[data-key="${cssEscape(key)}"]`);
   }
 
-  async function purgeAlbumByKey(key, btnEl){
+  function purgeAlbumByKey(key, btnEl){
     const rec = state.offlineMap[key];
     if(!rec){ showToast('记录不存在'); return; }
     const urls = getAlbumUrls(rec.cat, rec.album);
@@ -762,7 +820,7 @@ document.addEventListener('DOMContentLoaded', () => {
     postSWMessage('PURGE_ALBUM', { urls, albumKey: key });
   }
 
-  // SW 注册与消息
+  // ========== SW 注册与消息 ==========
   async function registerServiceWorker(){
     if(!('serviceWorker' in navigator)) return;
     try{
@@ -771,53 +829,78 @@ document.addEventListener('DOMContentLoaded', () => {
       await navigator.serviceWorker.ready;
       state.swReady = true;
 
+      // 监听 controllerchange，确保队列消息发送
+      navigator.serviceWorker.addEventListener('controllerchange', flushMsgQueue);
+
       postSWMessage('UPDATE_SETTINGS', { trimEnabled:false, maxEntries: state.threshold });
 
-      navigator.serviceWorker.addEventListener('message', async (event)=>{
+      navigator.serviceWorker.addEventListener('message', (event)=>{
         const {type, data} = event.data || {};
         if(type === 'CACHE_PROGRESS'){
-          const { done, total, albumKey: key } = data||{};
-          if(!key) return;
-          const rec = state.offlineMap[key] || (state.offlineMap[key]={ status:'in-progress', done:0, total:total||0, ...parseAlbumKeyToMeta(key) });
-          rec.status='in-progress'; rec.done=done; if(total) rec.total=total;
+          const { processed, addedTotal, total, albumKey: key } = data||{};
+          const rec = state.offlineMap[key] || (state.offlineMap[key]={...parseAlbumKey(key), status:'in-progress', done:0, total:total||0, ts:Date.now()});
+          rec.status='in-progress'; rec.processed = processed||0; if(Number.isFinite(addedTotal)) rec.done = addedTotal;
+          if(total) rec.total = total;
           saveOfflineMap();
           updateAlbumStatusBadge(key);
           renderOfflineManagerLists();
-          if (key === albumKey(currentCategoryName, currentAlbumName)) updateOfflineButtonState();
+          if (key === albumKey(currentCategoryName, currentAlbumName)) {
+            // 收到首个进度后，解除“准备中”
+            state.startingAlbums.delete(key);
+            updateOfflineButtonState();
+          }
+          if (isOverlayVisible()) scheduleCacheStatsUpdate();
         }else if(type === 'CACHE_DONE'){
-          const { albumKey: key, total } = data||{};
-          if(!key) return;
+          const { total, addedTotal, albumKey: key } = data||{};
           const rec = state.offlineMap[key] || (state.offlineMap[key]={});
-          rec.status='done'; rec.done=total; rec.total=total; rec.ts=Date.now(); Object.assign(rec, parseAlbumKeyToMeta(key));
+          Object.assign(rec, parseAlbumKey(key));
+          rec.status='done';
+          rec.total = total || rec.total || 0;
+          rec.done = Number.isFinite(addedTotal) ? addedTotal : rec.total;
+          rec.processed = rec.total;
+          rec.ts=Date.now();
           saveOfflineMap();
           updateAlbumStatusBadge(key);
           renderOfflineManagerLists();
-          await updateCacheStatsUI();
-          if (key === albumKey(currentCategoryName, currentAlbumName)) updateOfflineButtonState();
+          if (key === albumKey(currentCategoryName, currentAlbumName)) {
+            state.startingAlbums.delete(key);
+            updateOfflineButtonState();
+          }
+          if (isOverlayVisible()) scheduleCacheStatsUpdate();
           showToast('相册已缓存，可离线查看');
         }else if(type === 'CACHE_CANCELLED'){
-          const { albumKey: key, done } = data||{};
-          if(!key) return;
+          const { albumKey: key, processed, addedTotal, total } = data||{};
           const rec = state.offlineMap[key] || (state.offlineMap[key]={});
-          // 取消后视为“部分离线”
-          rec.status='partial'; rec.done = done||rec.done||0; rec.total = rec.total||getAlbumCount(parseAlbumKey(key).cat, parseAlbumKey(key).album); Object.assign(rec, parseAlbumKeyToMeta(key));
+          Object.assign(rec, parseAlbumKey(key));
+          rec.status='partial';
+          rec.total = total || rec.total || 0;
+          if (Number.isFinite(addedTotal)) rec.done = addedTotal;
+          rec.processed = processed||rec.processed||0;
+          rec.ts=Date.now();
           saveOfflineMap();
           updateAlbumStatusBadge(key);
           renderOfflineManagerLists();
-          await updateCacheStatsUI();
-          if (key === albumKey(currentCategoryName, currentAlbumName)) updateOfflineButtonState();
+          if (key === albumKey(currentCategoryName, currentAlbumName)) {
+            state.startingAlbums.delete(key);
+            updateOfflineButtonState();
+          }
+          if (isOverlayVisible()) scheduleCacheStatsUpdate();
           showToast('已取消该相册的离线任务');
         }else if(type === 'CACHE_ONE'){
-          const { albumKey: key, added } = data||{};
-          if(!key) return;
-          // 预加载纳入“部分离线”统计（仅新增才计数）
-          if(added){
-            const rec = state.offlineMap[key] || (state.offlineMap[key]={ status:'partial', done:0, total:getTotalByKey(key), ...parseAlbumKeyToMeta(key), ts:Date.now() });
-            if(rec.status==='done') return; // 已离线无需更新
-            if(rec.status==='in-progress'){ /* 进行中由进度消息驱动，不处理 */ }
-            else { rec.status='partial'; rec.done = (rec.done||0) + 1; rec.total = rec.total || getTotalByKey(key); }
+          const { albumKey: key, added, total } = data||{};
+          if (!key) return;
+          const rec = state.offlineMap[key] || (state.offlineMap[key]={...parseAlbumKey(key), status:'partial', done:0, total: total||getTotalByKey(key), ts:Date.now()});
+          if (rec.status==='done') return;
+          if (added){
+            rec.done = (rec.done||0) + 1;
+            if (total) rec.total = total;
             saveOfflineMap();
             updateAlbumStatusBadge(key);
+            // 当 partial 全部补齐时，升级为 done
+            if (rec.total && rec.done >= rec.total){
+              rec.status='done'; rec.processed = rec.total; rec.ts=Date.now();
+              saveOfflineMap(); updateAlbumStatusBadge(key); renderOfflineManagerLists(); updateOfflineButtonState();
+            }
           }
         }else if(type === 'PURGE_DONE'){
           const { albumKey: key, removed } = data||{};
@@ -826,7 +909,7 @@ document.addEventListener('DOMContentLoaded', () => {
           saveOfflineMap();
           updateAlbumStatusBadge(key);
           renderOfflineManagerLists();
-          await updateCacheStatsUI();
+          if (isOverlayVisible()) scheduleCacheStatsUpdate(true);
           if (key === albumKey(currentCategoryName, currentAlbumName)) updateOfflineButtonState();
           showToast(`已清除缓存 ${removed||0} 项`);
         }else if(type === 'PURGE_ALL_DONE'){
@@ -834,27 +917,39 @@ document.addEventListener('DOMContentLoaded', () => {
           saveOfflineMap();
           renderNavigation();
           renderOfflineManagerLists();
-          await updateCacheStatsUI();
+          if (isOverlayVisible()) scheduleCacheStatsUpdate(true);
           updateOfflineButtonState();
           showToast('已清空所有图片缓存');
         }
       });
+
+      // 初次 ready 后尝试投递队列消息
+      flushMsgQueue();
     }catch(e){
-      // 忽略
+      // 忽略注册失败
     }
   }
+
   function postSWMessage(type, data){
-    if(!state.swReady) return;
-    if(navigator.serviceWorker.controller){
-      navigator.serviceWorker.controller.postMessage({ type, data });
-    }else{
-      navigator.serviceWorker.ready.then(()=> navigator.serviceWorker.controller?.postMessage({type,data})).catch(()=>{});
+    const msg = { type, data };
+    const ctl = navigator.serviceWorker.controller || state.swReg?.active;
+    if (ctl){
+      try{ ctl.postMessage(msg); }catch(e){ state.msgQueue.push(msg); }
+      return;
+    }
+    state.msgQueue.push(msg);
+    // 等待受控后刷新队列
+    navigator.serviceWorker.ready.then(flushMsgQueue).catch(()=>{});
+  }
+  function flushMsgQueue(){
+    const ctl = navigator.serviceWorker.controller || state.swReg?.active;
+    if (!ctl) return;
+    while(state.msgQueue.length){
+      const m = state.msgQueue.shift();
+      try{ ctl.postMessage(m); }catch(e){ /* 保守失败则退出循环，下次再试 */ break; }
     }
   }
-  function parseAlbumKeyToMeta(key){
-    const {cat,album}=parseAlbumKey(key);
-    return {cat,album};
-  }
+
   function getTotalByKey(key){
     const {cat,album}=parseAlbumKey(key);
     return getAlbumCount(cat, album);
