@@ -86986,6 +86986,248 @@ const galleryData = {
     ]
   },
   "Leglegs": {
+    "No.008 Minna-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161505.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161510.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161516.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161524.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161532.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161539.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161546.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161553.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161600.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161605.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161610.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161615.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161619.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161626.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161634.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161643.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161649.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161655.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161700.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161704.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161709.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161715.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161720.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161726.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161731.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161735.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161740.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161744.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161747.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161753.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161758.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161802.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161809.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161814.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161821.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161838.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161922.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162026.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162104.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162109.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162116.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162122.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162136.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162155.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162202.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162209.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162220.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162231.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162242.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162256.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162323.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162420.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162504.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162527.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162540.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162551.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162607.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162641.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162647.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162652.jpg",
+        "alt": "0060"
+      }
+    ],
     "No.008": [
       {
         "src": "https://laji.o--o.xyz/i/2023/12/13/igli6h.jpg",
@@ -87226,6 +87468,268 @@ const galleryData = {
       {
         "src": "https://laji.o--o.xyz/i/2023/12/13/ilx2qm.jpg",
         "alt": "0060"
+      }
+    ],
+    "No.012 Minna-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162658.jpg",
+        "alt": "0000"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162708.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162715.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162726.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162742.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162800.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162814.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162823.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162834.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/162856.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/163010.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/163018.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/163028.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/163042.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/163105.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/163139.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/163208.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/163232.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/163246.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/163314.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/163417.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/163447.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/163505.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/163559.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/163658.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/163830.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/163913.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/163931.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/163945.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/163958.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164015.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164029.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164047.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164105.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164125.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164149.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164226.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164244.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164304.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164323.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164335.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164347.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164400.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164415.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164431.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164451.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164506.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164526.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164555.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164610.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164620.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164633.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164656.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164707.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164713.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164719.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164725.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164731.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164736.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164741.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164747.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164751.jpg",
+        "alt": "0061"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164758.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164802.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164806.jpg",
+        "alt": "0064"
       }
     ],
     "No.012": [
@@ -87490,6 +87994,144 @@ const galleryData = {
         "alt": "0064"
       }
     ],
+    "No.015 Minna-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164812.jpg",
+        "alt": "0000"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164819.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164827.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164834.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164841.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164846.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164851.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164856.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164902.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164908.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164914.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164922.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164931.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164938.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164946.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164953.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/164958.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165004.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165010.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165015.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165020.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165023.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165029.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165035.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165041.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165048.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165056.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165103.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165107.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165112.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165119.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165125.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165130.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165136.jpg",
+        "alt": "0033"
+      }
+    ],
     "No.015": [
       {
         "src": "https://laji.o--o.xyz/i/2023/12/13/igqx6x.jpg",
@@ -87626,6 +88268,152 @@ const galleryData = {
       {
         "src": "https://laji.o--o.xyz/i/2023/12/13/ik118i.jpg",
         "alt": "0033"
+      }
+    ],
+    "No.018 Minna-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165143.jpg",
+        "alt": "0000"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165151.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165158.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165205.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165210.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165216.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165222.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165228.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165233.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165239.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165244.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165247.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165251.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165256.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165301.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165306.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165311.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165315.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165321.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165325.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165329.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165335.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165339.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165345.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165350.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165355.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165400.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165404.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165408.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165414.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165419.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165423.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165429.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165433.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165439.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165443.jpg",
+        "alt": "0035"
       }
     ],
     "No.018": [
@@ -87772,6 +88560,188 @@ const galleryData = {
       {
         "src": "https://laji.o--o.xyz/i/2023/12/13/iub99k.jpg",
         "alt": "0035"
+      }
+    ],
+    "No.020 Minna-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165447.jpg",
+        "alt": "0000"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165453.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165500.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165506.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165511.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165516.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165521.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165524.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165528.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165530.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165535.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165540.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165545.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165550.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165558.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165607.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165615.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165621.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165628.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165634.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165639.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165645.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165651.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165656.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165702.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165711.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165720.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165725.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165728.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165731.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165734.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165739.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165742.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165748.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165752.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165756.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165800.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165806.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165810.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165815.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165820.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165826.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165831.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165836.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165839.jpg",
+        "alt": "0044"
       }
     ],
     "No.020": [
@@ -87954,6 +88924,204 @@ const galleryData = {
       {
         "src": "https://laji.o--o.xyz/i/2023/12/13/iw8brx.jpg",
         "alt": "0044"
+      }
+    ],
+    "No.023-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165845.jpg",
+        "alt": "0000"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165849.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165852.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165859.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165904.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165910.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165915.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165925.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165933.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165941.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165947.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165952.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/165958.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170001.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170007.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170012.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170017.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170022.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170027.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170032.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170038.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170043.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170049.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170054.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170059.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170102.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170108.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170113.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170118.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170125.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170130.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170135.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170141.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170147.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170153.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170158.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170202.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170207.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170213.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170220.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170225.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170230.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170237.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170241.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170245.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170248.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170253.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170257.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170301.jpg",
+        "alt": "0048"
       }
     ],
     "No.023": [
@@ -88154,6 +89322,556 @@ const galleryData = {
         "alt": "0048"
       }
     ],
+    "No.025 Minna [39P242M]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170307.jpg",
+        "alt": "0000"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170311.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170317.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170323.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170329.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170336.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170343.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170350.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170357.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170402.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170408.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170413.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170419.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170425.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170434.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170441.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170446.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170452.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170457.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170503.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170507.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170510.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170516.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170520.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170525.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170530.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170534.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170539.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170545.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170550.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170555.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170559.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170603.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170610.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170615.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170620.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170625.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170629.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170632.jpg",
+        "alt": "0038"
+      }
+    ],
+    "No.030 Minna [55P441M]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170637.jpg",
+        "alt": "0000"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170646.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170654.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170702.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170708.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170714.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170722.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170729.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170740.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170749.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170759.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170806.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170813.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170820.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170831.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170845.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170858.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170908.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170916.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170927.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170940.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170948.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/170957.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171008.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171022.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171046.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171108.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171143.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171227.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171240.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171307.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171401.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171457.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171503.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171510.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171522.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171538.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171553.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171602.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171616.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171625.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171636.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171650.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171659.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171709.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171720.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171735.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171750.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171804.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171818.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171830.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171841.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171853.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171906.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171918.jpg",
+        "alt": "0054"
+      }
+    ],
+    "No.034 Minna-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171929.jpg",
+        "alt": "0000"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/171939.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172002.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172047.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172101.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172110.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172121.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172137.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172154.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172216.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172249.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172312.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172331.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172338.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172347.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172359.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172418.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172431.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172445.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172505.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172516.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172556.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172625.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172642.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172652.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172710.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172725.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172805.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172816.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172825.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172834.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172843.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172904.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/172947.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173012.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173032.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173105.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173147.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173223.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173256.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173305.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173316.jpg",
+        "alt": "0041"
+      }
+    ],
     "No.034": [
       {
         "src": "https://laji.o--o.xyz/i/2023/12/13/iqwj9h.jpg",
@@ -88322,6 +90040,394 @@ const galleryData = {
       {
         "src": "https://laji.o--o.xyz/i/2023/12/13/iw8x0g.jpg",
         "alt": "0041"
+      }
+    ],
+    "No.037 Minna [53P283M]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173325.jpg",
+        "alt": "0000"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173336.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173352.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173404.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173417.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173424.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173431.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173441.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173451.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173502.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173511.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173519.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173527.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173535.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173540.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173546.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173551.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173555.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173601.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173605.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173611.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173619.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173627.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173640.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173704.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173747.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173821.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173900.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173926.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173944.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/173958.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174016.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174021.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174028.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174035.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174043.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174055.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174103.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174113.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174136.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174146.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174157.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174212.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174231.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174305.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174336.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174429.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174450.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174527.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174557.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174615.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174649.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174705.jpg",
+        "alt": "0052"
+      }
+    ],
+    "No.040 Minna-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174723.jpg",
+        "alt": "0000"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174733.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174746.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174754.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174801.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174825.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174900.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174930.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174937.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174945.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/174959.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/175030.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/175059.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/175136.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/175204.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/175221.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/175230.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/175303.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/175406.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/175512.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/175548.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/175610.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/175636.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/175659.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/175705.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/175714.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/175730.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/175754.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/175800.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/175807.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/175814.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/175823.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/175835.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/175848.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/175904.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/175918.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/175941.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/175953.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180013.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180037.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180044.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180055.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180127.jpg",
+        "alt": "0042"
       }
     ],
     "No.040": [
@@ -88496,6 +90602,842 @@ const galleryData = {
       {
         "src": "https://laji.o--o.xyz/i/2023/12/13/j23dvy.jpg",
         "alt": "0042"
+      }
+    ],
+    "No.042 Minna [50P268M]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180153.jpg",
+        "alt": "0000"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180216.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180235.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180239.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180244.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180251.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180304.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180343.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180430.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180451.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180517.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180524.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180528.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180532.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180537.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180543.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180550.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180600.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180611.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180625.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180644.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180713.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180753.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180814.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180819.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180824.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180831.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180837.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180846.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180857.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180912.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180926.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180938.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/180951.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181008.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181019.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181037.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181109.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181115.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181120.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181126.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181133.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181144.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181206.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181225.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181258.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181321.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181336.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181352.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181410.jpg",
+        "alt": "0049"
+      }
+    ],
+    "No.044 Minna [54P217M]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181435.jpg",
+        "alt": "0000"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181454.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181523.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181536.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181601.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181629.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181640.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181653.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181704.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181715.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181726.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181746.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181757.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181809.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181820.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181828.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181835.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181841.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181847.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181853.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181902.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181914.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181932.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181940.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181948.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/181956.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182006.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182016.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182030.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182057.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182132.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182143.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182146.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182150.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182156.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182205.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182213.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182219.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182226.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182233.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182245.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182304.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182321.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182335.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182354.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182406.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182419.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182432.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182453.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182508.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182513.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182520.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182526.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182535.jpg",
+        "alt": "0053"
+      }
+    ],
+    "No.047 Minna [48P187M]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182542.jpg",
+        "alt": "0000"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182554.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182611.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182619.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182626.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182637.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182651.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182704.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182712.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182717.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182723.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182729.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182735.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182742.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182750.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182802.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182810.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182816.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182822.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182828.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182833.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182839.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182841.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182845.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182848.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182852.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182855.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182859.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182903.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182907.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182912.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182918.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182925.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182936.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/182950.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183005.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183012.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183018.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183023.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183029.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183035.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183042.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183049.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183057.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183104.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183110.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183116.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183122.jpg",
+        "alt": "0047"
+      }
+    ],
+    "No.050 Minna-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183129.jpg",
+        "alt": "0000"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183140.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183155.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183204.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183212.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183219.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183229.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183237.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183247.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183258.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183316.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183328.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183339.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183344.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183347.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183351.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183356.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183401.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183407.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183415.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183425.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183439.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183449.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183503.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183518.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183529.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183543.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183550.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183555.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183602.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183613.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183631.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183648.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183702.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183716.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183734.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183747.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183757.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183810.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183826.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183836.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183846.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183859.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183916.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183936.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183940.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183945.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183951.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/183959.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184008.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184021.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184031.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184036.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184043.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184049.jpg",
+        "alt": "0060"
       }
     ],
     "No.050": [
@@ -96384,6 +99326,392 @@ const galleryData = {
         "alt": "0050"
       }
     ],
+    "NO.138 [96P]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/153720.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/153722.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/153725.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/153728.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/153731.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/153751.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/153757.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/153803.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/153809.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/153816.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/153823.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/153829.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/153834.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/153838.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/153843.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/153848.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/153854.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/153859.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/153904.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/153912.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/153920.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/153927.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/153933.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/153938.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/153942.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/153946.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/153951.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/153957.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154002.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154009.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154015.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154023.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154031.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154038.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154047.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154054.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154100.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154108.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154115.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154123.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154129.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154138.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154145.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154152.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154200.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154208.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154214.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154225.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154235.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154246.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154252.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154300.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154306.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154313.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154320.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154326.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154333.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154340.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154347.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154356.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154408.jpg",
+        "alt": "0061"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154416.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154423.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154429.jpg",
+        "alt": "0064"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154437.jpg",
+        "alt": "0065"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154443.jpg",
+        "alt": "0066"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154449.jpg",
+        "alt": "0067"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154455.jpg",
+        "alt": "0068"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154500.jpg",
+        "alt": "0069"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154507.jpg",
+        "alt": "0070"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154514.jpg",
+        "alt": "0071"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154521.jpg",
+        "alt": "0072"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154526.jpg",
+        "alt": "0073"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154533.jpg",
+        "alt": "0074"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154541.jpg",
+        "alt": "0075"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154550.jpg",
+        "alt": "0076"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154559.jpg",
+        "alt": "0077"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154607.jpg",
+        "alt": "0078"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154614.jpg",
+        "alt": "0079"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154622.jpg",
+        "alt": "0080"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154631.jpg",
+        "alt": "0081"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154638.jpg",
+        "alt": "0082"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154645.jpg",
+        "alt": "0083"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154650.jpg",
+        "alt": "0084"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154655.jpg",
+        "alt": "0085"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154700.jpg",
+        "alt": "0086"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154706.jpg",
+        "alt": "0087"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154711.jpg",
+        "alt": "0088"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154720.jpg",
+        "alt": "0089"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154727.jpg",
+        "alt": "0090"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154733.jpg",
+        "alt": "0091"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154739.jpg",
+        "alt": "0092"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154744.jpg",
+        "alt": "0093"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154747.jpg",
+        "alt": "0094"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154750.jpg",
+        "alt": "0095"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154755.jpg",
+        "alt": "0096"
+      }
+    ],
     "No.138": [
       {
         "src": "https://laji.o--o.xyz/i/2023/12/14/o4qxp9.jpg",
@@ -96770,6 +100098,372 @@ const galleryData = {
         "alt": "0096"
       }
     ],
+    "NO.139 [91P]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154800.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154806.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154812.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154817.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154822.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154826.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154830.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154834.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154836.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154841.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154845.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154850.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154856.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154902.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154910.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154916.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154923.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154929.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154936.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154942.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154949.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/154954.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155004.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155011.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155016.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155020.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155026.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155032.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155038.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155045.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155050.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155054.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155101.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155107.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155114.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155120.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155126.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155131.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155137.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155143.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155148.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155155.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155201.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155206.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155211.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155215.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155218.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155224.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155229.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155237.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155242.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155248.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155253.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155300.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155306.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155312.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155317.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155321.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155328.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155334.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155341.jpg",
+        "alt": "0061"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155346.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155351.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155356.jpg",
+        "alt": "0064"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155403.jpg",
+        "alt": "0065"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155408.jpg",
+        "alt": "0066"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155413.jpg",
+        "alt": "0067"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155418.jpg",
+        "alt": "0068"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155424.jpg",
+        "alt": "0069"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155429.jpg",
+        "alt": "0070"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155435.jpg",
+        "alt": "0071"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155440.jpg",
+        "alt": "0072"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155446.jpg",
+        "alt": "0073"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155450.jpg",
+        "alt": "0074"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155457.jpg",
+        "alt": "0075"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155503.jpg",
+        "alt": "0076"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155509.jpg",
+        "alt": "0077"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155515.jpg",
+        "alt": "0078"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155522.jpg",
+        "alt": "0079"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155527.jpg",
+        "alt": "0080"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155533.jpg",
+        "alt": "0081"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155537.jpg",
+        "alt": "0082"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155545.jpg",
+        "alt": "0083"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155551.jpg",
+        "alt": "0084"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155557.jpg",
+        "alt": "0085"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155602.jpg",
+        "alt": "0086"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155607.jpg",
+        "alt": "0087"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155612.jpg",
+        "alt": "0088"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155619.jpg",
+        "alt": "0089"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155626.jpg",
+        "alt": "0090"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155633.jpg",
+        "alt": "0091"
+      }
+    ],
     "No.139": [
       {
         "src": "https://laji.o--o.xyz/i/2023/12/14/o4s19y.jpg",
@@ -97134,6 +100828,300 @@ const galleryData = {
       {
         "src": "https://laji.o--o.xyz/i/2023/12/14/p1mo9k.jpg",
         "alt": "0091"
+      }
+    ],
+    "No.140 [73P]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184055.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184101.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184106.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184109.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184113.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184118.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184123.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184130.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184137.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184145.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184158.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184207.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184212.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184216.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184220.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184226.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184233.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184239.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184246.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184252.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184258.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184303.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184306.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184310.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184315.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184321.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184327.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184332.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184338.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184341.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184345.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184350.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184354.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184400.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184406.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184412.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184419.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184426.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184431.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184435.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184439.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184445.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184453.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184512.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184530.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184544.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184550.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184556.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184603.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184610.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184619.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184629.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184642.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184650.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184655.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184659.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184703.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184708.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184713.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184717.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184721.jpg",
+        "alt": "0061"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184725.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184731.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184737.jpg",
+        "alt": "0064"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184743.jpg",
+        "alt": "0065"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184749.jpg",
+        "alt": "0066"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184756.jpg",
+        "alt": "0067"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184802.jpg",
+        "alt": "0068"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184809.jpg",
+        "alt": "0069"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184817.jpg",
+        "alt": "0070"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184826.jpg",
+        "alt": "0071"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184837.jpg",
+        "alt": "0072"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184845.jpg",
+        "alt": "0073"
       }
     ],
     "No.140": [
@@ -97624,6 +101612,464 @@ const galleryData = {
         "alt": "0055"
       }
     ],
+    "No.141 [114P]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184853.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184902.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184909.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184915.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184921.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184928.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184935.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184942.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/184950.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185000.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185012.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185023.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185032.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185042.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185053.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185105.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185123.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185145.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185156.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185208.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185217.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185226.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185234.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185245.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185256.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185304.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185317.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185327.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185339.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185350.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185411.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185417.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185423.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185429.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185436.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185444.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185453.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185504.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185513.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185517.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185523.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185530.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185538.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185547.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185558.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185612.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185628.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185643.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185652.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185702.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185723.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185742.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185746.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185750.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185754.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185801.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185809.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185836.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185858.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185906.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185917.jpg",
+        "alt": "0061"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185929.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/185942.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190002.jpg",
+        "alt": "0064"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190017.jpg",
+        "alt": "0065"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190028.jpg",
+        "alt": "0066"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190042.jpg",
+        "alt": "0067"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190103.jpg",
+        "alt": "0068"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190127.jpg",
+        "alt": "0069"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190136.jpg",
+        "alt": "0070"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190141.jpg",
+        "alt": "0071"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190146.jpg",
+        "alt": "0072"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190153.jpg",
+        "alt": "0073"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190200.jpg",
+        "alt": "0074"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190208.jpg",
+        "alt": "0075"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190217.jpg",
+        "alt": "0076"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190226.jpg",
+        "alt": "0077"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190235.jpg",
+        "alt": "0078"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190242.jpg",
+        "alt": "0079"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190250.jpg",
+        "alt": "0080"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190301.jpg",
+        "alt": "0081"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190310.jpg",
+        "alt": "0082"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190313.jpg",
+        "alt": "0083"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190318.jpg",
+        "alt": "0084"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190322.jpg",
+        "alt": "0085"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190326.jpg",
+        "alt": "0086"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190331.jpg",
+        "alt": "0087"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190338.jpg",
+        "alt": "0088"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190348.jpg",
+        "alt": "0089"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190359.jpg",
+        "alt": "0090"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190403.jpg",
+        "alt": "0091"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190408.jpg",
+        "alt": "0092"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190414.jpg",
+        "alt": "0093"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190419.jpg",
+        "alt": "0094"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190426.jpg",
+        "alt": "0095"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190435.jpg",
+        "alt": "0096"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190446.jpg",
+        "alt": "0097"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190501.jpg",
+        "alt": "0098"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190515.jpg",
+        "alt": "0099"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190522.jpg",
+        "alt": "0100"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190529.jpg",
+        "alt": "0101"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190535.jpg",
+        "alt": "0102"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190540.jpg",
+        "alt": "0103"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190545.jpg",
+        "alt": "0104"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190550.jpg",
+        "alt": "0105"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190555.jpg",
+        "alt": "0106"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190559.jpg",
+        "alt": "0107"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190604.jpg",
+        "alt": "0108"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190608.jpg",
+        "alt": "0109"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190611.jpg",
+        "alt": "0110"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190615.jpg",
+        "alt": "0111"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190620.jpg",
+        "alt": "0112"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190623.jpg",
+        "alt": "0113"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190629.jpg",
+        "alt": "0114"
+      }
+    ],
     "No.141": [
       {
         "src": "https://laji.o--o.xyz/i/2023/12/08/ph2c9r.jpg",
@@ -98082,6 +102528,360 @@ const galleryData = {
         "alt": "0114"
       }
     ],
+    "No.143 [88P]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190644.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190712.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190801.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190828.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190833.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190836.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190839.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190842.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190847.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190853.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190858.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190902.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190905.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190909.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190913.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190918.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190923.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190929.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190935.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190942.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190952.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/190959.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191003.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191006.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191010.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191015.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191020.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191025.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191030.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191035.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191039.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191042.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191045.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191047.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191050.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191054.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191059.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191104.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191110.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191115.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191121.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191125.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191128.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191131.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191136.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191141.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191147.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191154.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191200.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191204.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191208.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191212.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191216.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191221.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191226.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191233.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191239.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191245.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191252.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191258.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191307.jpg",
+        "alt": "0061"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191316.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191322.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191327.jpg",
+        "alt": "0064"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191333.jpg",
+        "alt": "0065"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191343.jpg",
+        "alt": "0066"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191347.jpg",
+        "alt": "0067"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191352.jpg",
+        "alt": "0068"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191357.jpg",
+        "alt": "0069"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191404.jpg",
+        "alt": "0070"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191409.jpg",
+        "alt": "0071"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191416.jpg",
+        "alt": "0072"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191425.jpg",
+        "alt": "0073"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191435.jpg",
+        "alt": "0074"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191444.jpg",
+        "alt": "0075"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191453.jpg",
+        "alt": "0076"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191501.jpg",
+        "alt": "0077"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191509.jpg",
+        "alt": "0078"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191519.jpg",
+        "alt": "0079"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191530.jpg",
+        "alt": "0080"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191540.jpg",
+        "alt": "0081"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191548.jpg",
+        "alt": "0082"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191554.jpg",
+        "alt": "0083"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191558.jpg",
+        "alt": "0084"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191607.jpg",
+        "alt": "0085"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191617.jpg",
+        "alt": "0086"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191627.jpg",
+        "alt": "0087"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191639.jpg",
+        "alt": "0088"
+      }
+    ],
     "No.143": [
       {
         "src": "https://laji.o--o.xyz/i/2023/12/14/sa7ns1.jpg",
@@ -98436,6 +103236,344 @@ const galleryData = {
         "alt": "0088"
       }
     ],
+    "No.144 [84P]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191648.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191658.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191706.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191713.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191719.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191722.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191728.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191734.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191740.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191749.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191758.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191804.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191813.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191824.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191837.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191846.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191849.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191854.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191900.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191909.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191918.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191927.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191935.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/191948.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192000.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192008.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192012.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192017.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192023.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192033.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192042.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192046.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192052.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192059.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192108.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192117.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192126.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192136.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192144.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192151.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192159.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192209.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192219.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192223.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192228.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192234.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192242.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192250.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192257.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192306.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192315.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192324.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192334.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192342.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192355.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192407.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192415.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192425.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192436.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192443.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192453.jpg",
+        "alt": "0061"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192504.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192516.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192525.jpg",
+        "alt": "0064"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192531.jpg",
+        "alt": "0065"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192537.jpg",
+        "alt": "0066"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192544.jpg",
+        "alt": "0067"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192549.jpg",
+        "alt": "0068"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192555.jpg",
+        "alt": "0069"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192600.jpg",
+        "alt": "0070"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192604.jpg",
+        "alt": "0071"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192608.jpg",
+        "alt": "0072"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192614.jpg",
+        "alt": "0073"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192620.jpg",
+        "alt": "0074"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192625.jpg",
+        "alt": "0075"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192631.jpg",
+        "alt": "0076"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192638.jpg",
+        "alt": "0077"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192646.jpg",
+        "alt": "0078"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192653.jpg",
+        "alt": "0079"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192702.jpg",
+        "alt": "0080"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192709.jpg",
+        "alt": "0081"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192717.jpg",
+        "alt": "0082"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192724.jpg",
+        "alt": "0083"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192732.jpg",
+        "alt": "0084"
+      }
+    ],
     "No.144": [
       {
         "src": "https://laji.o--o.xyz/i/2023/12/08/ph1raz.jpg",
@@ -98771,6 +103909,344 @@ const galleryData = {
       },
       {
         "src": "https://laji.o--o.xyz/i/2023/12/08/ppv8bv.jpg",
+        "alt": "0084"
+      }
+    ],
+    "No.145 [84P]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192741.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192747.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192753.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192802.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192814.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192825.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192829.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192833.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192838.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192850.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192906.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192914.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192918.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192923.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192932.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/192948.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193017.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193052.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193120.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193133.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193139.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193149.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193208.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193246.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193306.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193319.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193337.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193351.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193428.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193446.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193452.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193503.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193521.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193549.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193556.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193624.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193659.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193719.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193744.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193811.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193816.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193820.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193826.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193839.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193900.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193911.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193927.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193938.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193942.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193945.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193950.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193955.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/193959.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194005.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194012.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194017.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194021.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194025.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194028.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194032.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194036.jpg",
+        "alt": "0061"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194040.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194044.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194048.jpg",
+        "alt": "0064"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194053.jpg",
+        "alt": "0065"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194058.jpg",
+        "alt": "0066"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194102.jpg",
+        "alt": "0067"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194108.jpg",
+        "alt": "0068"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194113.jpg",
+        "alt": "0069"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194118.jpg",
+        "alt": "0070"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194123.jpg",
+        "alt": "0071"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194126.jpg",
+        "alt": "0072"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194131.jpg",
+        "alt": "0073"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194137.jpg",
+        "alt": "0074"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194143.jpg",
+        "alt": "0075"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194148.jpg",
+        "alt": "0076"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194152.jpg",
+        "alt": "0077"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194159.jpg",
+        "alt": "0078"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194204.jpg",
+        "alt": "0079"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194209.jpg",
+        "alt": "0080"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194213.jpg",
+        "alt": "0081"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194218.jpg",
+        "alt": "0082"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194223.jpg",
+        "alt": "0083"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194227.jpg",
         "alt": "0084"
       }
     ],
@@ -99354,6 +104830,324 @@ const galleryData = {
         "alt": "0067"
       }
     ],
+    "No.146 [79P]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194231.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194236.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194243.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194252.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194302.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194314.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194320.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194324.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194329.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194333.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194337.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194342.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194349.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194354.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194359.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194403.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194406.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194412.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194416.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194421.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194427.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194433.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194439.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194444.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194448.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194452.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194455.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194459.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194502.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194505.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194509.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194512.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194516.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194519.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194524.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194527.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194531.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194534.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194538.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194540.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194544.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194548.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194551.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194556.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194600.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194604.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194608.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194611.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194615.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194618.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194621.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194626.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194632.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194638.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194643.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194647.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194652.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194656.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194701.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194704.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194709.jpg",
+        "alt": "0061"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194715.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194720.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194725.jpg",
+        "alt": "0064"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194728.jpg",
+        "alt": "0065"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194733.jpg",
+        "alt": "0066"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194736.jpg",
+        "alt": "0067"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194739.jpg",
+        "alt": "0068"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194742.jpg",
+        "alt": "0069"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194745.jpg",
+        "alt": "0070"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194749.jpg",
+        "alt": "0071"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194751.jpg",
+        "alt": "0072"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194754.jpg",
+        "alt": "0073"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194757.jpg",
+        "alt": "0074"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194801.jpg",
+        "alt": "0075"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194805.jpg",
+        "alt": "0076"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194809.jpg",
+        "alt": "0077"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194813.jpg",
+        "alt": "0078"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194816.jpg",
+        "alt": "0079"
+      }
+    ],
     "No.146": [
       {
         "src": "https://laji.o--o.xyz/i/2023/12/14/sa7t2k.jpg",
@@ -99670,6 +105464,392 @@ const galleryData = {
       {
         "src": "https://laji.o--o.xyz/i/2023/12/14/sg6mvb.jpg",
         "alt": "0079"
+      }
+    ],
+    "No.147 [97P]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194822.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194828.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194833.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194838.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194843.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194849.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194856.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194904.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194910.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194916.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194925.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194940.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/194952.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195003.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195008.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195013.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195018.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195023.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195027.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195032.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195036.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195041.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195045.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195050.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195054.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195100.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195105.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195110.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195114.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195118.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195121.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195125.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195135.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195147.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195156.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195201.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195204.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195209.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195213.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195218.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195226.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195233.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195241.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195249.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195258.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195310.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195320.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195333.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195342.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195349.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195356.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195407.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195419.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195430.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195440.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195449.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195457.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195506.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195521.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195532.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195540.jpg",
+        "alt": "0061"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195548.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195555.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195600.jpg",
+        "alt": "0064"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195607.jpg",
+        "alt": "0065"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195616.jpg",
+        "alt": "0066"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195621.jpg",
+        "alt": "0067"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195627.jpg",
+        "alt": "0068"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195633.jpg",
+        "alt": "0069"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195638.jpg",
+        "alt": "0070"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195643.jpg",
+        "alt": "0071"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195650.jpg",
+        "alt": "0072"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195656.jpg",
+        "alt": "0073"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195703.jpg",
+        "alt": "0074"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195722.jpg",
+        "alt": "0075"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195734.jpg",
+        "alt": "0076"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195747.jpg",
+        "alt": "0077"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195756.jpg",
+        "alt": "0078"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195800.jpg",
+        "alt": "0079"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195805.jpg",
+        "alt": "0080"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195813.jpg",
+        "alt": "0081"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195824.jpg",
+        "alt": "0082"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195830.jpg",
+        "alt": "0083"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195838.jpg",
+        "alt": "0084"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195845.jpg",
+        "alt": "0085"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195853.jpg",
+        "alt": "0086"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195859.jpg",
+        "alt": "0087"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195905.jpg",
+        "alt": "0088"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195911.jpg",
+        "alt": "0089"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195922.jpg",
+        "alt": "0090"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195929.jpg",
+        "alt": "0091"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195935.jpg",
+        "alt": "0092"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195942.jpg",
+        "alt": "0093"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/195954.jpg",
+        "alt": "0094"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200003.jpg",
+        "alt": "0095"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200007.jpg",
+        "alt": "0096"
       }
     ],
     "No.147": [
@@ -100056,6 +106236,408 @@ const galleryData = {
       {
         "src": "https://laji.o--o.xyz/i/2023/12/08/pnjmrw.jpg",
         "alt": "0096"
+      }
+    ],
+    "No.148 [100P]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200012.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200019.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200024.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200030.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200037.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200043.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200049.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200056.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200102.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200108.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200112.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200117.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200122.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200128.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200133.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200139.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200144.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200150.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200201.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200238.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200311.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200347.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200412.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200438.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200444.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200453.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200509.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200516.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200525.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200545.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200631.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200706.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200719.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200730.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200747.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200759.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200810.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200827.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200836.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200842.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200848.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200852.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200858.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200905.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200915.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200923.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200928.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200933.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200938.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200945.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/200953.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201001.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201013.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201032.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201043.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201049.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201101.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201121.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201139.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201147.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201157.jpg",
+        "alt": "0061"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201207.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201224.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201247.jpg",
+        "alt": "0064"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201259.jpg",
+        "alt": "0065"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201313.jpg",
+        "alt": "0066"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201329.jpg",
+        "alt": "0067"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201342.jpg",
+        "alt": "0068"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201358.jpg",
+        "alt": "0069"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201412.jpg",
+        "alt": "0070"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201424.jpg",
+        "alt": "0071"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201433.jpg",
+        "alt": "0072"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201448.jpg",
+        "alt": "0073"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201500.jpg",
+        "alt": "0074"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201523.jpg",
+        "alt": "0075"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201549.jpg",
+        "alt": "0076"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201612.jpg",
+        "alt": "0077"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201628.jpg",
+        "alt": "0078"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201649.jpg",
+        "alt": "0079"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201734.jpg",
+        "alt": "0080"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201844.jpg",
+        "alt": "0081"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201909.jpg",
+        "alt": "0082"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201921.jpg",
+        "alt": "0083"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201930.jpg",
+        "alt": "0084"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/201941.jpg",
+        "alt": "0085"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202006.jpg",
+        "alt": "0086"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202032.jpg",
+        "alt": "0087"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202039.jpg",
+        "alt": "0088"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202052.jpg",
+        "alt": "0089"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202130.jpg",
+        "alt": "0090"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202144.jpg",
+        "alt": "0091"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202224.jpg",
+        "alt": "0092"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202302.jpg",
+        "alt": "0093"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202318.jpg",
+        "alt": "0094"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202342.jpg",
+        "alt": "0095"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202355.jpg",
+        "alt": "0096"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202410.jpg",
+        "alt": "0097"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202435.jpg",
+        "alt": "0098"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202441.jpg",
+        "alt": "0099"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202445.jpg",
+        "alt": "0100"
       }
     ],
     "No.148": [
@@ -100460,6 +107042,344 @@ const galleryData = {
         "alt": "0100"
       }
     ],
+    "No.149 [84P]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202452.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202459.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202508.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202515.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202522.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202535.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202546.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202554.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202603.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202616.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202628.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202642.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202654.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202709.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202729.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202743.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202755.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202803.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202813.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202825.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202840.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202858.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202918.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202927.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/202940.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203004.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203022.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203027.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203030.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203034.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203038.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203045.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203057.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203119.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203138.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203146.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203152.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203156.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203202.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203209.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203216.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203223.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203229.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203237.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203246.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203253.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203257.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203301.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203306.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203310.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203317.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203321.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203326.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203330.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203335.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203339.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203346.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203353.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203402.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203426.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203500.jpg",
+        "alt": "0061"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203521.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203544.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203556.jpg",
+        "alt": "0064"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203602.jpg",
+        "alt": "0065"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203608.jpg",
+        "alt": "0066"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203615.jpg",
+        "alt": "0067"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203628.jpg",
+        "alt": "0068"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203655.jpg",
+        "alt": "0069"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203710.jpg",
+        "alt": "0070"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203724.jpg",
+        "alt": "0071"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203804.jpg",
+        "alt": "0072"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203823.jpg",
+        "alt": "0073"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203837.jpg",
+        "alt": "0074"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203846.jpg",
+        "alt": "0075"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203855.jpg",
+        "alt": "0076"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203908.jpg",
+        "alt": "0077"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203940.jpg",
+        "alt": "0078"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/203958.jpg",
+        "alt": "0079"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204004.jpg",
+        "alt": "0080"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204006.jpg",
+        "alt": "0081"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204014.jpg",
+        "alt": "0082"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204023.jpg",
+        "alt": "0083"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204032.jpg",
+        "alt": "0084"
+      }
+    ],
     "No.149": [
       {
         "src": "https://laji.o--o.xyz/i/2023/12/14/sa83hz.jpg",
@@ -100792,6 +107712,380 @@ const galleryData = {
       {
         "src": "https://laji.o--o.xyz/i/2023/12/14/sgtd9a.jpg",
         "alt": "0084"
+      }
+    ],
+    "No.150 [93P]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204041.jpg",
+        "alt": "IMG_4303"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204049.jpg",
+        "alt": "IMG_4306"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204057.jpg",
+        "alt": "IMG_4307"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204107.jpg",
+        "alt": "IMG_4308"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204115.jpg",
+        "alt": "IMG_4310"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204123.jpg",
+        "alt": "IMG_4313"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204130.jpg",
+        "alt": "IMG_4317"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204134.jpg",
+        "alt": "IMG_4318"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204137.jpg",
+        "alt": "IMG_4323"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204141.jpg",
+        "alt": "IMG_4324"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204146.jpg",
+        "alt": "IMG_4327"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204151.jpg",
+        "alt": "IMG_4328"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204157.jpg",
+        "alt": "IMG_4332"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204204.jpg",
+        "alt": "IMG_4341"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204213.jpg",
+        "alt": "IMG_4343"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204221.jpg",
+        "alt": "IMG_4346"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204237.jpg",
+        "alt": "IMG_4347"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204252.jpg",
+        "alt": "IMG_4349"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204301.jpg",
+        "alt": "IMG_4350"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204309.jpg",
+        "alt": "IMG_4359"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204327.jpg",
+        "alt": "IMG_4362"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204350.jpg",
+        "alt": "IMG_4363"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204358.jpg",
+        "alt": "IMG_4364"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204403.jpg",
+        "alt": "IMG_4365"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204416.jpg",
+        "alt": "IMG_4368"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204429.jpg",
+        "alt": "IMG_4370"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204441.jpg",
+        "alt": "IMG_4373"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204455.jpg",
+        "alt": "IMG_4376"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204508.jpg",
+        "alt": "IMG_4377"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204523.jpg",
+        "alt": "IMG_4378"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204539.jpg",
+        "alt": "IMG_4379"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204544.jpg",
+        "alt": "IMG_4380"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204548.jpg",
+        "alt": "IMG_4381"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204552.jpg",
+        "alt": "IMG_4385"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204557.jpg",
+        "alt": "IMG_4386"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204603.jpg",
+        "alt": "IMG_4388"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204609.jpg",
+        "alt": "IMG_4389"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204619.jpg",
+        "alt": "IMG_4390"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204630.jpg",
+        "alt": "IMG_4393"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204636.jpg",
+        "alt": "IMG_4394"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204639.jpg",
+        "alt": "IMG_4398"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204643.jpg",
+        "alt": "IMG_4402"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204646.jpg",
+        "alt": "IMG_4403"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204651.jpg",
+        "alt": "IMG_4404"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204657.jpg",
+        "alt": "IMG_4405"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204701.jpg",
+        "alt": "IMG_4406"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204705.jpg",
+        "alt": "IMG_4408"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204711.jpg",
+        "alt": "IMG_4410"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204717.jpg",
+        "alt": "IMG_4411"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204727.jpg",
+        "alt": "IMG_4415"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204758.jpg",
+        "alt": "IMG_4416"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204811.jpg",
+        "alt": "IMG_4420"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204831.jpg",
+        "alt": "IMG_4422"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204855.jpg",
+        "alt": "IMG_4423"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204905.jpg",
+        "alt": "IMG_4424"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204916.jpg",
+        "alt": "IMG_4426"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204924.jpg",
+        "alt": "IMG_4428"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/204943.jpg",
+        "alt": "IMG_4429"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205007.jpg",
+        "alt": "IMG_4430"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205018.jpg",
+        "alt": "IMG_4431"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205030.jpg",
+        "alt": "IMG_4435"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205035.jpg",
+        "alt": "IMG_4439"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205043.jpg",
+        "alt": "IMG_4443"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205058.jpg",
+        "alt": "IMG_4448"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205131.jpg",
+        "alt": "IMG_4450"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205149.jpg",
+        "alt": "IMG_4452"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205209.jpg",
+        "alt": "IMG_4453"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205220.jpg",
+        "alt": "IMG_4455"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205225.jpg",
+        "alt": "IMG_4456"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205228.jpg",
+        "alt": "IMG_4457"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205232.jpg",
+        "alt": "IMG_4459"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205237.jpg",
+        "alt": "IMG_4460"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205241.jpg",
+        "alt": "IMG_4461"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205244.jpg",
+        "alt": "IMG_4465"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205247.jpg",
+        "alt": "IMG_4466"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205252.jpg",
+        "alt": "IMG_4467"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205256.jpg",
+        "alt": "IMG_4473"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205305.jpg",
+        "alt": "IMG_4475"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205322.jpg",
+        "alt": "IMG_4476"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205347.jpg",
+        "alt": "IMG_4477"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205412.jpg",
+        "alt": "IMG_4479"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205428.jpg",
+        "alt": "IMG_4481"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205500.jpg",
+        "alt": "IMG_4482"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205523.jpg",
+        "alt": "IMG_4484"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205542.jpg",
+        "alt": "IMG_4490"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205554.jpg",
+        "alt": "IMG_4491"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205618.jpg",
+        "alt": "IMG_4496"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205626.jpg",
+        "alt": "IMG_4498"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205630.jpg",
+        "alt": "IMG_4505"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205634.jpg",
+        "alt": "IMG_4507"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205637.jpg",
+        "alt": "IMG_4509"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205641.jpg",
+        "alt": "IMG_4510"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205647.jpg",
+        "alt": "IMG_4516"
       }
     ],
     "No.150": [
@@ -101168,6 +108462,380 @@ const galleryData = {
         "alt": "IMG_4516"
       }
     ],
+    "No.151 [93P]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205656.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205720.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205803.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205811.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205817.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205825.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205836.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205859.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205914.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205920.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205927.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205935.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205944.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/205953.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210000.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210006.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210012.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210017.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210023.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210029.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210037.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210042.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210047.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210055.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210118.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210212.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210231.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210243.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210251.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210316.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210325.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210330.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210336.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210341.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210346.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210351.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210354.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210359.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210404.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210407.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210411.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210415.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210418.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210423.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210428.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210435.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210442.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210446.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210453.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210506.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210521.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210535.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210542.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210552.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210600.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210612.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210645.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210731.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210803.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210847.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210920.jpg",
+        "alt": "0061"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/210938.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211005.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211027.jpg",
+        "alt": "0064"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211044.jpg",
+        "alt": "0065"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211115.jpg",
+        "alt": "0066"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211129.jpg",
+        "alt": "0067"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211136.jpg",
+        "alt": "0068"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211144.jpg",
+        "alt": "0069"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211155.jpg",
+        "alt": "0070"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211205.jpg",
+        "alt": "0071"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211224.jpg",
+        "alt": "0072"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211253.jpg",
+        "alt": "0073"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211306.jpg",
+        "alt": "0074"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211317.jpg",
+        "alt": "0075"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211332.jpg",
+        "alt": "0076"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211344.jpg",
+        "alt": "0077"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211350.jpg",
+        "alt": "0078"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211358.jpg",
+        "alt": "0079"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211406.jpg",
+        "alt": "0080"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211416.jpg",
+        "alt": "0081"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211430.jpg",
+        "alt": "0082"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211448.jpg",
+        "alt": "0083"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211517.jpg",
+        "alt": "0084"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211549.jpg",
+        "alt": "0085"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211600.jpg",
+        "alt": "0086"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211616.jpg",
+        "alt": "0087"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211635.jpg",
+        "alt": "0088"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211654.jpg",
+        "alt": "0089"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211700.jpg",
+        "alt": "0090"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211706.jpg",
+        "alt": "0091"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211711.jpg",
+        "alt": "0092"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211717.jpg",
+        "alt": "0093"
+      }
+    ],
     "No.151": [
       {
         "src": "https://laji.o--o.xyz/i/2023/12/13/hf4jek.jpg",
@@ -101540,6 +109208,396 @@ const galleryData = {
       {
         "src": "https://laji.o--o.xyz/i/2023/12/13/i90rzs.jpg",
         "alt": "0093"
+      }
+    ],
+    "No.152 [97P]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211735.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211750.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211803.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211812.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211826.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211838.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211900.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211916.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211924.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211930.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/211957.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/212100.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/212145.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/212226.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/212251.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/212303.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/212312.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/212320.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/212327.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/212338.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/212345.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/212400.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/212428.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/212452.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/212512.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/212523.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/212530.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/212538.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/212550.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/212621.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/212640.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/212651.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/212659.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/212711.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/212744.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/212820.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/212842.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/212927.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/213013.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/213032.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/213057.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/213124.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/213143.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/213204.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/213256.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/213340.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/213454.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/213544.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/213616.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/213711.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/213723.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/213732.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/213745.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/213759.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/213815.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/213827.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/213841.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/213855.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/213912.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/213927.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/213942.jpg",
+        "alt": "0061"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/213957.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214010.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214024.jpg",
+        "alt": "0064"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214038.jpg",
+        "alt": "0065"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214052.jpg",
+        "alt": "0066"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214101.jpg",
+        "alt": "0067"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214115.jpg",
+        "alt": "0068"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214125.jpg",
+        "alt": "0069"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214140.jpg",
+        "alt": "0070"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214154.jpg",
+        "alt": "0071"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214210.jpg",
+        "alt": "0072"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214221.jpg",
+        "alt": "0073"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214235.jpg",
+        "alt": "0074"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214249.jpg",
+        "alt": "0075"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214303.jpg",
+        "alt": "0076"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214319.jpg",
+        "alt": "0077"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214336.jpg",
+        "alt": "0078"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214351.jpg",
+        "alt": "0079"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214405.jpg",
+        "alt": "0080"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214420.jpg",
+        "alt": "0081"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214433.jpg",
+        "alt": "0082"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214448.jpg",
+        "alt": "0083"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214503.jpg",
+        "alt": "0084"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214520.jpg",
+        "alt": "0085"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214542.jpg",
+        "alt": "0086"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214557.jpg",
+        "alt": "0087"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214610.jpg",
+        "alt": "0088"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214623.jpg",
+        "alt": "0089"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214641.jpg",
+        "alt": "0090"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214654.jpg",
+        "alt": "0091"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214708.jpg",
+        "alt": "0092"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214720.jpg",
+        "alt": "0093"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214731.jpg",
+        "alt": "0094"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214744.jpg",
+        "alt": "0095"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214756.jpg",
+        "alt": "0096"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214813.jpg",
+        "alt": "0097"
       }
     ],
     "No.152": [
@@ -101930,6 +109988,328 @@ const galleryData = {
       {
         "src": "https://laji.o--o.xyz/i/2023/12/08/perg88.jpg",
         "alt": "0097"
+      }
+    ],
+    "No.154 [80P]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214828.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214840.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214854.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214906.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214918.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214932.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214945.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/214959.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215015.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215028.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215042.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215055.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215108.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215120.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215135.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215149.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215202.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215216.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215229.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215240.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215252.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215304.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215316.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215330.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215341.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215355.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215409.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215422.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215436.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215447.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215458.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215510.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215523.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215536.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215551.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215605.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215619.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215634.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215647.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215702.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215715.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215733.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215747.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215801.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215817.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215834.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215850.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215908.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215923.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215939.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/215952.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220007.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220018.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220031.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220042.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220057.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220109.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220121.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220134.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220146.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220159.jpg",
+        "alt": "0061"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220211.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220219.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220232.jpg",
+        "alt": "0064"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220244.jpg",
+        "alt": "0065"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220256.jpg",
+        "alt": "0066"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220309.jpg",
+        "alt": "0067"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220321.jpg",
+        "alt": "0068"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220333.jpg",
+        "alt": "0069"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220454.jpg",
+        "alt": "0070"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220504.jpg",
+        "alt": "0071"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220511.jpg",
+        "alt": "0072"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220516.jpg",
+        "alt": "0073"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220522.jpg",
+        "alt": "0074"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220527.jpg",
+        "alt": "0075"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220534.jpg",
+        "alt": "0076"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220538.jpg",
+        "alt": "0077"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220541.jpg",
+        "alt": "0078"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220547.jpg",
+        "alt": "0079"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220552.jpg",
+        "alt": "0080"
       }
     ],
     "No.154": [
@@ -102624,6 +111004,380 @@ const galleryData = {
         "alt": "0092"
       }
     ],
+    "No.156 [93P]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220558.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220603.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220608.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220613.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220624.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220633.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220644.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220650.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220657.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220704.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220709.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220715.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220726.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220737.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220746.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220752.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220800.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220815.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220824.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220829.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220837.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220841.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220846.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220854.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220858.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220907.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220914.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220924.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220930.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220939.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220948.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/220955.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221002.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221008.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221015.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221020.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221025.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221031.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221040.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221049.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221057.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221103.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221116.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221126.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221134.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221144.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221153.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221205.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221213.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221221.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221251.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221300.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221308.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221318.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221325.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221333.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221339.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221346.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221358.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221407.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221418.jpg",
+        "alt": "0061"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221429.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221439.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221445.jpg",
+        "alt": "0064"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221456.jpg",
+        "alt": "0065"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221507.jpg",
+        "alt": "0066"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221516.jpg",
+        "alt": "0067"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221525.jpg",
+        "alt": "0068"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221536.jpg",
+        "alt": "0069"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221544.jpg",
+        "alt": "0070"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221552.jpg",
+        "alt": "0071"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221600.jpg",
+        "alt": "0072"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221608.jpg",
+        "alt": "0073"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221615.jpg",
+        "alt": "0074"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221627.jpg",
+        "alt": "0075"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221633.jpg",
+        "alt": "0076"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221638.jpg",
+        "alt": "0077"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221643.jpg",
+        "alt": "0078"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221647.jpg",
+        "alt": "0079"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221655.jpg",
+        "alt": "0080"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221704.jpg",
+        "alt": "0081"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221711.jpg",
+        "alt": "0082"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221718.jpg",
+        "alt": "0083"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221726.jpg",
+        "alt": "0084"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221734.jpg",
+        "alt": "0085"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221741.jpg",
+        "alt": "0086"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221748.jpg",
+        "alt": "0087"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221755.jpg",
+        "alt": "0088"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221807.jpg",
+        "alt": "0089"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221819.jpg",
+        "alt": "0090"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221827.jpg",
+        "alt": "0091"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221833.jpg",
+        "alt": "0092"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221839.jpg",
+        "alt": "0093"
+      }
+    ],
     "No.156": [
       {
         "src": "https://laji.o--o.xyz/i/2023/12/08/ov3szw.jpg",
@@ -103292,6 +112046,344 @@ const galleryData = {
         "alt": "0073"
       }
     ],
+    "No.158 [84P]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221846.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221852.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221857.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221902.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221907.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221910.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221914.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221919.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221923.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221927.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221934.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221940.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221944.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221949.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/221954.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/222001.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/222007.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/222012.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/222019.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/222025.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/222030.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/222036.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/222041.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/222046.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/222051.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/222055.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/222058.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/222114.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/222146.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/222153.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/222158.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/222203.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/222208.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223237.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223318.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223329.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223340.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223354.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223404.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223412.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223419.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223427.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223433.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223438.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223443.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223448.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223454.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223508.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223515.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223521.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223525.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223529.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223533.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223536.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223539.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223544.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223555.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223559.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223605.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223608.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223611.jpg",
+        "alt": "0061"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223614.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223617.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223623.jpg",
+        "alt": "0064"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223635.jpg",
+        "alt": "0065"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223639.jpg",
+        "alt": "0066"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223643.jpg",
+        "alt": "0067"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223647.jpg",
+        "alt": "0068"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223651.jpg",
+        "alt": "0069"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223655.jpg",
+        "alt": "0070"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223658.jpg",
+        "alt": "0071"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223708.jpg",
+        "alt": "0072"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223711.jpg",
+        "alt": "0073"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223720.jpg",
+        "alt": "0074"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223853.jpg",
+        "alt": "0075"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223900.jpg",
+        "alt": "0076"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223906.jpg",
+        "alt": "0077"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223910.jpg",
+        "alt": "0078"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223916.jpg",
+        "alt": "0079"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223923.jpg",
+        "alt": "0080"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223927.jpg",
+        "alt": "0081"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223932.jpg",
+        "alt": "0082"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223936.jpg",
+        "alt": "0083"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223940.jpg",
+        "alt": "0084"
+      }
+    ],
     "No.158": [
       {
         "src": "https://laji.o--o.xyz/i/2023/12/13/hf53kk.jpg",
@@ -103628,6 +112720,408 @@ const galleryData = {
       {
         "src": "https://laji.o--o.xyz/i/2023/12/13/i8zwr7.jpg",
         "alt": "0084"
+      }
+    ],
+    "No.159 [100P]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223944.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223947.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223953.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/223958.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224003.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224007.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224013.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224018.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224023.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224028.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224033.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224037.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224051.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224057.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224102.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224108.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224112.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224116.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224121.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224127.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224135.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224140.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224148.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224155.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224202.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224208.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224215.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224223.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224230.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224236.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224242.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224248.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224253.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224258.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224303.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224309.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224316.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224322.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224332.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224340.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224351.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224400.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224408.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224414.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224421.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224425.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224432.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224447.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224455.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224500.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224504.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224511.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224516.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224521.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224527.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224531.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224537.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224543.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224550.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224555.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224600.jpg",
+        "alt": "0061"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224606.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224614.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224620.jpg",
+        "alt": "0064"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224625.jpg",
+        "alt": "0065"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224630.jpg",
+        "alt": "0066"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224647.jpg",
+        "alt": "0067"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224653.jpg",
+        "alt": "0068"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224658.jpg",
+        "alt": "0069"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224703.jpg",
+        "alt": "0070"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224707.jpg",
+        "alt": "0071"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224711.jpg",
+        "alt": "0072"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224714.jpg",
+        "alt": "0073"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224719.jpg",
+        "alt": "0074"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224803.jpg",
+        "alt": "0075"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224814.jpg",
+        "alt": "0076"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224819.jpg",
+        "alt": "0077"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224823.jpg",
+        "alt": "0078"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224827.jpg",
+        "alt": "0079"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224831.jpg",
+        "alt": "0080"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224834.jpg",
+        "alt": "0081"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224837.jpg",
+        "alt": "0082"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224840.jpg",
+        "alt": "0083"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224844.jpg",
+        "alt": "0084"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224847.jpg",
+        "alt": "0085"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224850.jpg",
+        "alt": "0086"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224853.jpg",
+        "alt": "0087"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224857.jpg",
+        "alt": "0088"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224900.jpg",
+        "alt": "0089"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224905.jpg",
+        "alt": "0090"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224910.jpg",
+        "alt": "0091"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224913.jpg",
+        "alt": "0092"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224918.jpg",
+        "alt": "0093"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224921.jpg",
+        "alt": "0094"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224926.jpg",
+        "alt": "0095"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224930.jpg",
+        "alt": "0096"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224936.jpg",
+        "alt": "0097"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224944.jpg",
+        "alt": "0098"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224948.jpg",
+        "alt": "0099"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/224952.jpg",
+        "alt": "0100"
       }
     ],
     "No.159": [
@@ -104032,6 +113526,328 @@ const galleryData = {
         "alt": "0100"
       }
     ],
+    "No.160 [80P]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225001.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225045.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225052.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225057.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225102.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225106.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225110.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225114.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225120.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225124.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225127.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225131.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225135.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225140.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225144.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225149.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225158.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225206.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225216.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225224.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225232.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225240.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225246.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225252.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225257.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225304.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225310.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225316.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225321.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225329.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225334.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225338.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225343.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225348.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225354.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225400.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225407.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225412.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225418.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225423.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225426.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225430.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225433.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225438.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225441.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225447.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225458.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225501.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225505.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225508.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225510.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225513.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225516.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225519.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225521.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225526.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225531.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225534.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225537.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225540.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225544.jpg",
+        "alt": "0061"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225547.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225551.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225557.jpg",
+        "alt": "0064"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225601.jpg",
+        "alt": "0065"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225605.jpg",
+        "alt": "0066"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225608.jpg",
+        "alt": "0067"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225616.jpg",
+        "alt": "0068"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225630.jpg",
+        "alt": "0069"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225635.jpg",
+        "alt": "0070"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225640.jpg",
+        "alt": "0071"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225645.jpg",
+        "alt": "0072"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225649.jpg",
+        "alt": "0073"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225652.jpg",
+        "alt": "0074"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225659.jpg",
+        "alt": "0075"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225902.jpg",
+        "alt": "0076"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225909.jpg",
+        "alt": "0077"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225915.jpg",
+        "alt": "0078"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225919.jpg",
+        "alt": "0079"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225923.jpg",
+        "alt": "0080"
+      }
+    ],
     "No.160": [
       {
         "src": "https://laji.o--o.xyz/i/2023/12/08/ov3rkw.jpg",
@@ -104352,6 +114168,352 @@ const galleryData = {
       {
         "src": "https://laji.o--o.xyz/i/2023/12/08/oz5s34.jpg",
         "alt": "0080"
+      }
+    ],
+    "No.164 [86P]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225938.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225948.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225953.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/225957.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230001.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230005.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230009.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230012.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230016.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230052.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230101.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230106.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230113.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230116.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230136.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230211.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230220.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230225.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230230.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230234.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230238.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230241.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230244.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230259.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230305.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230311.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230315.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230319.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230324.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230340.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230346.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230401.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230409.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230416.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230420.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230424.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230428.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230431.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230435.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230439.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230442.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230445.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230448.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230451.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230455.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230500.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230505.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230516.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230523.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230527.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230536.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230542.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230549.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230557.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230605.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230610.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230615.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230624.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230630.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230635.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230641.jpg",
+        "alt": "0061"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230650.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230656.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230701.jpg",
+        "alt": "0064"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230707.jpg",
+        "alt": "0065"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230712.jpg",
+        "alt": "0066"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230719.jpg",
+        "alt": "0067"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230725.jpg",
+        "alt": "0068"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230732.jpg",
+        "alt": "0069"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230737.jpg",
+        "alt": "0070"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230740.jpg",
+        "alt": "0071"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230744.jpg",
+        "alt": "0072"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230751.jpg",
+        "alt": "0073"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230757.jpg",
+        "alt": "0074"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230803.jpg",
+        "alt": "0075"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230807.jpg",
+        "alt": "0076"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230810.jpg",
+        "alt": "0077"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230813.jpg",
+        "alt": "0078"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230817.jpg",
+        "alt": "0079"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230821.jpg",
+        "alt": "0080"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230824.jpg",
+        "alt": "0081"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230830.jpg",
+        "alt": "0082"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230836.jpg",
+        "alt": "0083"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230841.jpg",
+        "alt": "0084"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230846.jpg",
+        "alt": "0085"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/230852.jpg",
+        "alt": "0086"
       }
     ],
     "No.164": [
@@ -105036,6 +115198,380 @@ const galleryData = {
       {
         "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2024/03/24/h1e5ov.jpg",
         "alt": "0084"
+      }
+    ],
+    "No.168 [93P]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/221449.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/221457.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/221504.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/221511.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/221516.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/221520.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/221528.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/221535.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/221539.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/221541.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/221543.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/221830.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/221839.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/221845.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/221853.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/221900.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/221913.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/221931.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/221939.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/221949.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/221958.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222011.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222022.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222030.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222039.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222055.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222108.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222115.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222124.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222133.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222140.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222152.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222207.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222218.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222227.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222237.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222244.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222251.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222444.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222451.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222454.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222457.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222500.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222502.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222505.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222508.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222510.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222513.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222516.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222519.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222522.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222525.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222528.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222531.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222537.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222540.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222544.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222546.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222549.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222553.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222555.jpg",
+        "alt": "0061"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222558.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222601.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222606.jpg",
+        "alt": "0064"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222609.jpg",
+        "alt": "0065"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222612.jpg",
+        "alt": "0066"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222614.jpg",
+        "alt": "0067"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222617.jpg",
+        "alt": "0068"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222620.jpg",
+        "alt": "0069"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222623.jpg",
+        "alt": "0070"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222626.jpg",
+        "alt": "0071"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222628.jpg",
+        "alt": "0072"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222633.jpg",
+        "alt": "0073"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222637.jpg",
+        "alt": "0074"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222639.jpg",
+        "alt": "0075"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222642.jpg",
+        "alt": "0076"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222645.jpg",
+        "alt": "0077"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222649.jpg",
+        "alt": "0078"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222651.jpg",
+        "alt": "0079"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222654.jpg",
+        "alt": "0080"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222656.jpg",
+        "alt": "0081"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222659.jpg",
+        "alt": "0082"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222702.jpg",
+        "alt": "0083"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222705.jpg",
+        "alt": "0084"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222708.jpg",
+        "alt": "0085"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222710.jpg",
+        "alt": "0086"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222713.jpg",
+        "alt": "0087"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222715.jpg",
+        "alt": "0088"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222717.jpg",
+        "alt": "0089"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222721.jpg",
+        "alt": "0090"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222723.jpg",
+        "alt": "0091"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222726.jpg",
+        "alt": "0092"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222729.jpg",
+        "alt": "0093"
       }
     ],
     "No.168": [
@@ -105726,6 +116262,340 @@ const galleryData = {
         "alt": "0078"
       }
     ],
+    "No.172 [83P263MB]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222733.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222736.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222739.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222741.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222744.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222748.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222750.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222753.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222756.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222759.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222802.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222805.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222807.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222810.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222813.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222816.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222819.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222822.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222824.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222826.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222829.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222831.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222834.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222836.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222838.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222841.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222844.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222846.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222852.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222855.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222857.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222859.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222906.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222907.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222910.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222912.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222913.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222915.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222917.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222919.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222921.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222923.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222925.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222928.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222934.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222936.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222938.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222940.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222942.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222944.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222946.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222948.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222950.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222952.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/222958.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223001.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223003.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223005.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223007.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223009.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223011.jpg",
+        "alt": "0061"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223013.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223015.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223017.jpg",
+        "alt": "0064"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223019.jpg",
+        "alt": "0065"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223025.jpg",
+        "alt": "0066"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223028.jpg",
+        "alt": "0067"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223030.jpg",
+        "alt": "0068"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223032.jpg",
+        "alt": "0069"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223037.jpg",
+        "alt": "0070"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223039.jpg",
+        "alt": "0071"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223041.jpg",
+        "alt": "0072"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223043.jpg",
+        "alt": "0073"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223046.jpg",
+        "alt": "0074"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223048.jpg",
+        "alt": "0075"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223050.jpg",
+        "alt": "0076"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223052.jpg",
+        "alt": "0077"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223055.jpg",
+        "alt": "0078"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223056.jpg",
+        "alt": "0079"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223102.jpg",
+        "alt": "0080"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223104.jpg",
+        "alt": "0081"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223106.jpg",
+        "alt": "0082"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223108.jpg",
+        "alt": "0083"
+      }
+    ],
     "No.172": [
       {
         "src": "https://laji.o--o.xyz/i/2023/12/13/h79z7c.jpg",
@@ -106058,6 +116928,408 @@ const galleryData = {
       {
         "src": "https://laji.o--o.xyz/i/2023/12/13/havwpd.jpg",
         "alt": "0083"
+      }
+    ],
+    "No.174 [100P]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223111.jpg",
+        "alt": "0000"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223114.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223116.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223119.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223125.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223128.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223130.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223133.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223135.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223138.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223141.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223143.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223146.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223149.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223152.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223154.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223157.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223200.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223203.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223205.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223208.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223211.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223214.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223217.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223220.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223222.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223225.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223228.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223230.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223233.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223239.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223241.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223244.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223247.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223250.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223253.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223255.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223258.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223301.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223307.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223310.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223313.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223315.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223318.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223320.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223326.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223329.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223332.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223335.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223338.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223341.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223343.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223346.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223348.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223351.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223354.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223356.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223359.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223402.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223404.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223407.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223410.jpg",
+        "alt": "0061"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223412.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223415.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223418.jpg",
+        "alt": "0064"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223421.jpg",
+        "alt": "0065"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223423.jpg",
+        "alt": "0066"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223426.jpg",
+        "alt": "0067"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223429.jpg",
+        "alt": "0068"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223431.jpg",
+        "alt": "0069"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223434.jpg",
+        "alt": "0070"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223436.jpg",
+        "alt": "0071"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223439.jpg",
+        "alt": "0072"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223444.jpg",
+        "alt": "0073"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223447.jpg",
+        "alt": "0074"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223450.jpg",
+        "alt": "0075"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223452.jpg",
+        "alt": "0076"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223455.jpg",
+        "alt": "0077"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223457.jpg",
+        "alt": "0078"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223504.jpg",
+        "alt": "0079"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223507.jpg",
+        "alt": "0080"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223509.jpg",
+        "alt": "0081"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223512.jpg",
+        "alt": "0082"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223517.jpg",
+        "alt": "0083"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223520.jpg",
+        "alt": "0084"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223522.jpg",
+        "alt": "0085"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223525.jpg",
+        "alt": "0086"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223528.jpg",
+        "alt": "0087"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223530.jpg",
+        "alt": "0088"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223533.jpg",
+        "alt": "0089"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223537.jpg",
+        "alt": "0090"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223539.jpg",
+        "alt": "0091"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223543.jpg",
+        "alt": "0092"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223546.jpg",
+        "alt": "0093"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223549.jpg",
+        "alt": "0094"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223551.jpg",
+        "alt": "0095"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223554.jpg",
+        "alt": "0096"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223557.jpg",
+        "alt": "0097"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223600.jpg",
+        "alt": "0098"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223602.jpg",
+        "alt": "0099"
       }
     ],
     "No.174": [
@@ -106460,6 +117732,404 @@ const galleryData = {
       {
         "src": "https://laji.o--o.xyz/i/2023/12/15/o4qsos.jpg",
         "alt": "0099"
+      }
+    ],
+    "No.176 [98P]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223605.jpg",
+        "alt": "0000"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223608.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223610.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223612.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223615.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223617.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223621.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223624.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223626.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223629.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223631.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223634.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223637.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223643.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223645.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223647.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223650.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223653.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223656.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223659.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223701.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223704.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223707.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223710.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223713.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223716.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223719.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223721.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223724.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223727.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223731.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223734.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223738.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223741.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223744.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223747.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223750.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223753.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223756.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223759.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223801.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223805.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223807.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223810.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223813.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223817.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223820.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223822.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223824.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223830.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223833.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223836.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223838.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223841.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223845.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223848.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223851.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223853.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223856.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223859.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223902.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223905.jpg",
+        "alt": "0061"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223907.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223910.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223912.jpg",
+        "alt": "0064"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223915.jpg",
+        "alt": "0065"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223918.jpg",
+        "alt": "0066"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223921.jpg",
+        "alt": "0067"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223924.jpg",
+        "alt": "0068"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223927.jpg",
+        "alt": "0069"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223933.jpg",
+        "alt": "0070"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223935.jpg",
+        "alt": "0071"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223939.jpg",
+        "alt": "0072"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223942.jpg",
+        "alt": "0073"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223945.jpg",
+        "alt": "0074"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223947.jpg",
+        "alt": "0075"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223950.jpg",
+        "alt": "0076"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/223958.jpg",
+        "alt": "0077"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224001.jpg",
+        "alt": "0078"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224004.jpg",
+        "alt": "0079"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224006.jpg",
+        "alt": "0080"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224009.jpg",
+        "alt": "0081"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224013.jpg",
+        "alt": "0082"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224016.jpg",
+        "alt": "0083"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224019.jpg",
+        "alt": "0084"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224023.jpg",
+        "alt": "0085"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224027.jpg",
+        "alt": "0086"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224029.jpg",
+        "alt": "0087"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224032.jpg",
+        "alt": "0088"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224036.jpg",
+        "alt": "0089"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224039.jpg",
+        "alt": "0090"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224042.jpg",
+        "alt": "0091"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224048.jpg",
+        "alt": "0092"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224051.jpg",
+        "alt": "0093"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224053.jpg",
+        "alt": "0094"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224056.jpg",
+        "alt": "0095"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224059.jpg",
+        "alt": "0096"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224102.jpg",
+        "alt": "0097"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224106.jpg",
+        "alt": "0098"
       }
     ],
     "No.176": [
@@ -107088,6 +118758,328 @@ const galleryData = {
       {
         "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2024/03/24/glbhnt.jpg",
         "alt": "0056"
+      }
+    ],
+    "No.179 [80P331.1MB]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224109.jpg",
+        "alt": "0000"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224115.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224117.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224119.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224122.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224125.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224127.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224130.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224133.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224136.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224139.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224141.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224143.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224146.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224149.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224156.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224158.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224201.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224204.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224206.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224209.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224216.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224219.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224222.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224225.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224228.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224231.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224234.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224238.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224241.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224247.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224250.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224253.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224255.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224258.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224301.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224304.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224310.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224313.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224316.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224319.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224322.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224328.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224331.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224333.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224336.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224344.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224347.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224350.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224354.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224356.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224400.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224404.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224407.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224411.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224414.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224418.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224421.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224424.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224427.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224430.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224434.jpg",
+        "alt": "0061"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224437.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224440.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224443.jpg",
+        "alt": "0064"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224446.jpg",
+        "alt": "0065"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224449.jpg",
+        "alt": "0066"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224452.jpg",
+        "alt": "0067"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224456.jpg",
+        "alt": "0068"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224458.jpg",
+        "alt": "0069"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224501.jpg",
+        "alt": "0070"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224503.jpg",
+        "alt": "0071"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224506.jpg",
+        "alt": "0072"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224508.jpg",
+        "alt": "0073"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224511.jpg",
+        "alt": "0074"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224514.jpg",
+        "alt": "0075"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224517.jpg",
+        "alt": "0076"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224521.jpg",
+        "alt": "0077"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224525.jpg",
+        "alt": "0078"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224528.jpg",
+        "alt": "0079"
       }
     ],
     "No.179": [
@@ -107798,6 +119790,348 @@ const galleryData = {
         "alt": "0095(1)"
       }
     ],
+    "No.183 [85P454.33M]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224532.jpg",
+        "alt": "0000(1)"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224535.jpg",
+        "alt": "0001(1)"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224539.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224542.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224549.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224553.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224556.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224600.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224604.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224607.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224614.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224618.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224623.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224626.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224629.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224636.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224639.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224643.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224647.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224650.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224654.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224658.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224702.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224705.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224713.jpg",
+        "alt": "0024(1)"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224717.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224720.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224724.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224727.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224730.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224733.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224737.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224742.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224746.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224750.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224754.jpg",
+        "alt": "0035(1)"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224758.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224801.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224805.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224809.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224816.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224820.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224824.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224827.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224831.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224835.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224839.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224843.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224847.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224851.jpg",
+        "alt": "0049(1)"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224854.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224858.jpg",
+        "alt": "0051(1)"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224902.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224906.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224910.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224914.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224918.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224921.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224924.jpg",
+        "alt": "0058(1)"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224928.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224932.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224935.jpg",
+        "alt": "0061(1)"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224939.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224943.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224947.jpg",
+        "alt": "0064"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224951.jpg",
+        "alt": "0065"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224955.jpg",
+        "alt": "0066"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/224959.jpg",
+        "alt": "0067"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225003.jpg",
+        "alt": "0068"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225007.jpg",
+        "alt": "0069"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225011.jpg",
+        "alt": "0070"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225014.jpg",
+        "alt": "0071"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225018.jpg",
+        "alt": "0072"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225025.jpg",
+        "alt": "0073"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225029.jpg",
+        "alt": "0074"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225033.jpg",
+        "alt": "0075"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225036.jpg",
+        "alt": "0076"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225040.jpg",
+        "alt": "0077"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225045.jpg",
+        "alt": "0078"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225048.jpg",
+        "alt": "0079"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225052.jpg",
+        "alt": "0080"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225056.jpg",
+        "alt": "0081"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225100.jpg",
+        "alt": "0082"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225107.jpg",
+        "alt": "0083"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225111.jpg",
+        "alt": "0084"
+      }
+    ],
     "No.183": [
       {
         "src": "https://laji.o--o.xyz/i/2023/12/12/ntlymz.jpg",
@@ -108138,6 +120472,332 @@ const galleryData = {
       {
         "src": "https://laji.o--o.xyz/i/2023/12/12/o3pfpk.jpg",
         "alt": "0084"
+      }
+    ],
+    "No.185 Minna [81P]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225114.jpg",
+        "alt": "0000"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225116.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225119.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225122.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225127.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225130.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225133.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225139.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225142.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225145.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225148.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225154.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225157.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225200.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225202.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225205.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225208.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225214.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225217.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225220.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225223.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225226.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225228.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225231.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225233.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225236.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225238.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225241.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225244.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225247.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225249.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225251.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225254.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225257.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225300.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225302.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225305.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225308.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225310.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225317.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225319.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225322.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225325.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225328.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225330.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225336.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225338.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225345.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225347.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225350.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225352.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225355.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225358.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225401.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225404.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225406.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225409.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225411.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225414.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225417.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225420.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225426.jpg",
+        "alt": "0061"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225429.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225432.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225435.jpg",
+        "alt": "0064"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225438.jpg",
+        "alt": "0065"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225441.jpg",
+        "alt": "0066"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225445.jpg",
+        "alt": "0067"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225448.jpg",
+        "alt": "0068"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225452.jpg",
+        "alt": "0069"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225455.jpg",
+        "alt": "0070"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225458.jpg",
+        "alt": "0071"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225501.jpg",
+        "alt": "0072"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225503.jpg",
+        "alt": "0073"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225506.jpg",
+        "alt": "0074"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225509.jpg",
+        "alt": "0075"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225512.jpg",
+        "alt": "0076"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225514.jpg",
+        "alt": "0077"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225517.jpg",
+        "alt": "0078"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225519.jpg",
+        "alt": "0079"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225522.jpg",
+        "alt": "0080"
       }
     ],
     "No.185": [
@@ -108848,6 +121508,328 @@ const galleryData = {
         "alt": "0094"
       }
     ],
+    "NO.191-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155637.jpg",
+        "alt": "0000"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155642.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155650.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155657.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155704.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155711.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155718.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155725.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155731.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155742.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155749.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155755.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155800.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155806.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155811.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155816.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155824.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155830.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155836.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155843.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155850.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155856.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155903.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155908.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155915.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155922.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155927.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155933.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155942.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155949.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/155956.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160005.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160012.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160020.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160027.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160034.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160050.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160100.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160106.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160111.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160119.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160126.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160132.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160137.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160142.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160148.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160155.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160202.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160208.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160214.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160219.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160225.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160230.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160237.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160243.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160249.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160254.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160300.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160305.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160309.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160317.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160325.jpg",
+        "alt": "0061"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160331.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160334.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160338.jpg",
+        "alt": "0064"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160344.jpg",
+        "alt": "0065"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160352.jpg",
+        "alt": "0066"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160358.jpg",
+        "alt": "0067"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160404.jpg",
+        "alt": "0068"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160410.jpg",
+        "alt": "0069"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160416.jpg",
+        "alt": "0070"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160420.jpg",
+        "alt": "0071"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160425.jpg",
+        "alt": "0072"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160428.jpg",
+        "alt": "0073"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160432.jpg",
+        "alt": "0074"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160436.jpg",
+        "alt": "0075"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160440.jpg",
+        "alt": "0076"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160445.jpg",
+        "alt": "0077"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160449.jpg",
+        "alt": "0078"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160454.jpg",
+        "alt": "0079"
+      }
+    ],
     "No.191": [
       {
         "src": "https://laji.o--o.xyz/i/2023/12/12/ntf9y6.jpg",
@@ -109498,6 +122480,376 @@ const galleryData = {
       {
         "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2024/03/24/fmz1k3.jpg",
         "alt": "0081"
+      }
+    ],
+    "NO.195-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160501.jpg",
+        "alt": "0000"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160509.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160515.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160523.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160529.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160535.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160540.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160547.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160554.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160600.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160606.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160611.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160615.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160619.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160625.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160630.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160638.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160647.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160653.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160701.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160706.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160711.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160716.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160722.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160727.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160733.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160738.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160745.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160751.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160757.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160806.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160815.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160821.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160828.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160834.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160839.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160847.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160853.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160859.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160905.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160909.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160916.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160922.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160931.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160937.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160946.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/160954.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161001.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161010.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161017.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161022.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161029.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161036.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161043.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161048.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161055.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161101.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161108.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161117.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161124.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161130.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161140.jpg",
+        "alt": "0061"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161148.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161154.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161159.jpg",
+        "alt": "0064"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161206.jpg",
+        "alt": "0065"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161213.jpg",
+        "alt": "0066"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161220.jpg",
+        "alt": "0067"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161225.jpg",
+        "alt": "0068"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161232.jpg",
+        "alt": "0069"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161238.jpg",
+        "alt": "0070"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161246.jpg",
+        "alt": "0071"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161253.jpg",
+        "alt": "0072"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161259.jpg",
+        "alt": "0073"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161306.jpg",
+        "alt": "0074"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161311.jpg",
+        "alt": "0075"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161317.jpg",
+        "alt": "0076"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161322.jpg",
+        "alt": "0077"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161330.jpg",
+        "alt": "0078"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161339.jpg",
+        "alt": "0079"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161347.jpg",
+        "alt": "0080"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161352.jpg",
+        "alt": "0081"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161402.jpg",
+        "alt": "0082"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161410.jpg",
+        "alt": "0083"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161415.jpg",
+        "alt": "0084"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161421.jpg",
+        "alt": "0085"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161426.jpg",
+        "alt": "0086"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161432.jpg",
+        "alt": "0087"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161439.jpg",
+        "alt": "0088"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161445.jpg",
+        "alt": "0089"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161452.jpg",
+        "alt": "0090"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/26/161459.jpg",
+        "alt": "0091"
       }
     ],
     "No.195": [
@@ -110506,6 +123858,348 @@ const galleryData = {
         "alt": "0073"
       }
     ],
+    "No.205 [85P532M]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225525.jpg",
+        "alt": "0000"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225528.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225535.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225537.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225544.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225550.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225554.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225557.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225559.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225604.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225608.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225611.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225614.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225617.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225619.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225622.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225629.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225632.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225634.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225637.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225640.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225643.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225651.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225653.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225656.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225659.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225702.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225706.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225709.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225712.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225715.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225718.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225722.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225724.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225727.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225730.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225737.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225740.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225743.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225746.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225749.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225752.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225755.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225758.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225801.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225804.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225807.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225810.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225813.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225816.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225819.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225822.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225825.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225828.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225832.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225835.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225839.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225843.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225846.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225849.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225853.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225857.jpg",
+        "alt": "0061"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225900.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225903.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225906.jpg",
+        "alt": "0064"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225910.jpg",
+        "alt": "0065"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225913.jpg",
+        "alt": "0066"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225916.jpg",
+        "alt": "0067"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225920.jpg",
+        "alt": "0068"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225923.jpg",
+        "alt": "0069"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225926.jpg",
+        "alt": "0070"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225929.jpg",
+        "alt": "0071"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225932.jpg",
+        "alt": "0072"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225936.jpg",
+        "alt": "0073"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/225939.jpg",
+        "alt": "0074"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/230044.jpg",
+        "alt": "0075"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/230051.jpg",
+        "alt": "0076"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/230055.jpg",
+        "alt": "0077"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/230100.jpg",
+        "alt": "0078"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/230104.jpg",
+        "alt": "0079"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/230111.jpg",
+        "alt": "0080"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/230115.jpg",
+        "alt": "0081"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/230125.jpg",
+        "alt": "0082"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/230136.jpg",
+        "alt": "0083"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/27/230533.jpg",
+        "alt": "0084"
+      }
+    ],
     "No.205": [
       {
         "src": "https://laji.o--o.xyz/i/2023/12/08/m1u1na.jpg",
@@ -110846,6 +124540,388 @@ const galleryData = {
       {
         "src": "https://laji.o--o.xyz/i/2023/12/08/mewa6k.jpg",
         "alt": "0084"
+      }
+    ],
+    "No.209 Minna [95P]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/211652.jpg",
+        "alt": "0000"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/211657.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/211703.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/211708.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/211715.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/211721.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/211728.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/211735.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/211741.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/211746.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/211751.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/211755.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/211758.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/211914.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/211935.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212001.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212005.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212012.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212017.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212029.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212037.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212044.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212053.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212102.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212112.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212116.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212123.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212130.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212136.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212141.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212146.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212153.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212201.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212209.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212220.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212229.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212236.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212240.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212247.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212253.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212258.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212303.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212309.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212315.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212323.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212328.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212334.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212343.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212350.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212356.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212402.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212410.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212415.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212419.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212423.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212427.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212433.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212441.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212447.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212453.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212500.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212507.jpg",
+        "alt": "0061"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212513.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212521.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212554.jpg",
+        "alt": "0064"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212605.jpg",
+        "alt": "0065"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212612.jpg",
+        "alt": "0066"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212616.jpg",
+        "alt": "0067"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/212621.jpg",
+        "alt": "0068"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/213340.jpg",
+        "alt": "0070"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/213355.jpg",
+        "alt": "0071"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/213416.jpg",
+        "alt": "0072"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/213423.jpg",
+        "alt": "0073"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/213429.jpg",
+        "alt": "0074"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/213434.jpg",
+        "alt": "0075"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/213439.jpg",
+        "alt": "0076"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/213446.jpg",
+        "alt": "0077"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/213454.jpg",
+        "alt": "0078"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/213501.jpg",
+        "alt": "0079"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/213507.jpg",
+        "alt": "0080"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/213638.jpg",
+        "alt": "0081"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/213701.jpg",
+        "alt": "0082"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/213706.jpg",
+        "alt": "0083"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/213710.jpg",
+        "alt": "0084"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/213714.jpg",
+        "alt": "0085"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/213738.jpg",
+        "alt": "0086"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/213745.jpg",
+        "alt": "0087"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/213749.jpg",
+        "alt": "0088"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/213754.jpg",
+        "alt": "0089"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/213759.jpg",
+        "alt": "0090"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/213805.jpg",
+        "alt": "0091"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/213810.jpg",
+        "alt": "0092"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/213906.jpg",
+        "alt": "0093"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/213912.jpg",
+        "alt": "0094"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/213917.jpg",
+        "alt": "0112"
       }
     ],
     "No.209": [
@@ -111232,6 +125308,348 @@ const galleryData = {
       {
         "src": "https://laji.o--o.xyz/i/2023/12/14/ssp0av.jpg",
         "alt": "0112"
+      }
+    ],
+    "No.211 [85P]-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214046.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214053.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214101.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214106.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214109.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214113.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214342.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214352.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214400.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214404.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214408.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214416.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214422.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214427.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214433.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214439.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214451.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214501.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214509.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214517.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214525.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214637.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214648.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214657.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214706.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214716.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214728.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214742.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214753.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214800.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214812.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214827.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214847.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214858.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214910.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214917.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214923.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214931.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/214935.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215055.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215101.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215108.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215111.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215116.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215120.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215124.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215129.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215133.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215150.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215158.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215203.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215208.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215212.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215217.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215222.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215232.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215237.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215243.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215250.jpg",
+        "alt": "0059"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215254.jpg",
+        "alt": "0060"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215259.jpg",
+        "alt": "0061"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215306.jpg",
+        "alt": "0062"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215311.jpg",
+        "alt": "0063"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215319.jpg",
+        "alt": "0064"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215323.jpg",
+        "alt": "0065"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215328.jpg",
+        "alt": "0066"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215336.jpg",
+        "alt": "0067"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215341.jpg",
+        "alt": "0068"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215345.jpg",
+        "alt": "0069"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215349.jpg",
+        "alt": "0070"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215355.jpg",
+        "alt": "0071"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215358.jpg",
+        "alt": "0072"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215406.jpg",
+        "alt": "0073"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215410.jpg",
+        "alt": "0074"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215414.jpg",
+        "alt": "0075"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/215806.jpg",
+        "alt": "0076"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/220236.jpg",
+        "alt": "0077"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/220251.jpg",
+        "alt": "0078"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/220259.jpg",
+        "alt": "0079"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/220305.jpg",
+        "alt": "0080"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/220314.jpg",
+        "alt": "0081"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/220322.jpg",
+        "alt": "0082"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/220333.jpg",
+        "alt": "0083"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/220346.jpg",
+        "alt": "0084"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/220357.jpg",
+        "alt": "0085"
       }
     ],
     "No.211": [
@@ -113354,6 +127772,914 @@ const galleryData = {
       {
         "src": "https://laji.o--o.xyz/i/2023/12/12/qtqs65.jpg",
         "alt": "0043"
+      }
+    ],
+    "[Beautyleg] No.742 Minna-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/220403.jpg",
+        "alt": "0000"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/220409.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/220415.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/220424.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/220430.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/220436.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/220442.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/220446.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/220535.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/220546.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/220552.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/220556.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221441.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221452.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221458.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221503.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221508.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221515.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221531.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221550.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221554.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221556.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221559.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221601.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221605.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221609.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221614.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221619.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221623.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221628.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221632.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221636.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221642.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221645.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221650.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221657.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221700.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221746.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221806.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221813.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221819.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221826.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221831.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221834.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221839.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221851.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221856.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221902.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221938.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221945.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/221952.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/222003.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/222010.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/222017.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/222022.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/222027.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/222038.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/222046.jpg",
+        "alt": "0057"
+      }
+    ],
+    "[Beautyleg] No.826 Minna-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/222054.jpg",
+        "alt": "0000"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/222104.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/222113.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/222123.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/222134.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/222613.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/222926.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/222931.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/222935.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/222940.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/222944.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/222948.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/222952.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/222957.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/223003.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/223008.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/223015.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/223023.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/223028.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/223040.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/223055.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/223103.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/223504.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/223523.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/223530.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/223956.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/224049.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/224103.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/224128.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/224330.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/224346.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/224404.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/224417.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/224441.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/224735.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/224752.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/224801.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/224810.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/224815.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/224820.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/224826.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/224831.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/224837.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/224845.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/224857.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/224903.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/224916.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/224923.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/224930.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/224936.jpg",
+        "alt": "0050"
+      }
+    ],
+    "[Beautyleg] No.829 Minna-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/224939.jpg",
+        "alt": "0000"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/224944.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/224950.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/224954.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225002.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225010.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225017.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225023.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225033.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225041.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225050.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225059.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225104.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225111.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225116.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225124.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225133.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225139.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225145.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225149.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225153.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225157.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225201.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225204.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225207.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225211.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225214.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225218.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225222.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225225.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225229.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225232.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225235.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225240.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225245.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225248.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225251.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225254.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225257.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225300.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225303.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225308.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225319.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225504.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225519.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225526.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225531.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225536.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225540.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225545.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225550.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225554.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225557.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225601.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225606.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225610.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225614.jpg",
+        "alt": "0056"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225619.jpg",
+        "alt": "0057"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225623.jpg",
+        "alt": "0058"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225628.jpg",
+        "alt": "0059"
+      }
+    ],
+    "[Beautyleg] No.837 Minna-H": [
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225632.jpg",
+        "alt": "0000"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225645.jpg",
+        "alt": "0001"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225651.jpg",
+        "alt": "0002"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225657.jpg",
+        "alt": "0003"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225702.jpg",
+        "alt": "0004"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225708.jpg",
+        "alt": "0005"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225715.jpg",
+        "alt": "0006"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225721.jpg",
+        "alt": "0007"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225727.jpg",
+        "alt": "0008"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225733.jpg",
+        "alt": "0009"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225738.jpg",
+        "alt": "0010"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225745.jpg",
+        "alt": "0011"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225752.jpg",
+        "alt": "0012"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225757.jpg",
+        "alt": "0013"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225802.jpg",
+        "alt": "0014"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225807.jpg",
+        "alt": "0015"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225811.jpg",
+        "alt": "0016"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225815.jpg",
+        "alt": "0017"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225819.jpg",
+        "alt": "0018"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225903.jpg",
+        "alt": "0019"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225936.jpg",
+        "alt": "0020"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225944.jpg",
+        "alt": "0021"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225950.jpg",
+        "alt": "0022"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/225956.jpg",
+        "alt": "0023"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230002.jpg",
+        "alt": "0024"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230012.jpg",
+        "alt": "0025"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230018.jpg",
+        "alt": "0026"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230024.jpg",
+        "alt": "0027"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230030.jpg",
+        "alt": "0028"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230038.jpg",
+        "alt": "0029"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230045.jpg",
+        "alt": "0030"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230052.jpg",
+        "alt": "0031"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230057.jpg",
+        "alt": "0032"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230104.jpg",
+        "alt": "0033"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230112.jpg",
+        "alt": "0034"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230126.jpg",
+        "alt": "0035"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230133.jpg",
+        "alt": "0036"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230141.jpg",
+        "alt": "0037"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230150.jpg",
+        "alt": "0038"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230155.jpg",
+        "alt": "0039"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230159.jpg",
+        "alt": "0040"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230203.jpg",
+        "alt": "0041"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230206.jpg",
+        "alt": "0042"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230214.jpg",
+        "alt": "0043"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230217.jpg",
+        "alt": "0044"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230221.jpg",
+        "alt": "0045"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230225.jpg",
+        "alt": "0046"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230235.jpg",
+        "alt": "0047"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230240.jpg",
+        "alt": "0048"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230247.jpg",
+        "alt": "0049"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230256.jpg",
+        "alt": "0050"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230304.jpg",
+        "alt": "0051"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230309.jpg",
+        "alt": "0052"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230314.jpg",
+        "alt": "0053"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230319.jpg",
+        "alt": "0054"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230531.jpg",
+        "alt": "0055"
+      },
+      {
+        "src": "https://cdn.statically.io/img/laji.o--o.xyz/i/2025/10/29/230549.jpg",
+        "alt": "0056"
       }
     ]
   },
