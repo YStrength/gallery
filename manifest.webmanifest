@@ -1,11 +1,11 @@
 {
-  "name": "我的相册门户",
-  "short_name": "相册门户",
+  "name": "幻光相册门户",
+  "short_name": "幻光相册",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#263146",
-  "theme_color": "#263146",
+  "background_color": "#020617",
+  "theme_color": "#020617",
   "icons": [
     {
       "src": "https://placehold.co/192x192/png?text=Gallery",

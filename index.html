@@ -3,10 +3,12 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <meta name="theme-color" content="#263146" />
+  <meta name="theme-color" content="#020617" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="description" content="一个支持离线浏览、主题切换和手势交互的相册门户。" />
   <link rel="manifest" href="manifest.webmanifest" />
-  <title>我的相册门户</title>
+  <title>幻光相册门户</title>
   <link rel="stylesheet" href="portal.css" />
 </head>
 <body>
@@ -15,17 +17,24 @@
   <div id="sidebar-container">
     <header class="main-header">
       <div class="brand">
-        <span class="logo-dot"></span>
-        <h1 id="page-title">相册导航</h1>
+        <div class="brand-mark">
+          <span class="logo-dot"></span>
+          <span class="logo-orbit"></span>
+        </div>
+        <div class="brand-text">
+          <h1 id="page-title">幻光相册门户</h1>
+          <p class="brand-subtitle">轻盈 · 科幻 · 随时离线浏览</p>
+        </div>
       </div>
       <div class="header-right">
-        <span id="current-album-info"></span>
+        <span id="current-album-info" class="album-crumb">尚未选择相册</span>
         <div class="theme-switcher" aria-label="切换主题">
-          <button class="theme-dot" data-theme="classic" title="经典"></button>
-          <button class="theme-dot" data-theme="ocean" title="蔚蓝"></button>
-          <button class="theme-dot" data-theme="forest" title="森绿"></button>
-          <button class="theme-dot" data-theme="sakura" title="樱粉"></button>
-          <button class="theme-dot" data-theme="midnight" title="暗夜"></button>
+          <span class="theme-label sr-only">主题</span>
+          <button class="theme-dot" data-theme="classic" title="明亮"></button>
+          <button class="theme-dot" data-theme="ocean" title="科幻蓝"></button>
+          <button class="theme-dot" data-theme="forest" title="中式复古绿"></button>
+          <button class="theme-dot" data-theme="sakura" title="欧式米白"></button>
+          <button class="theme-dot" data-theme="midnight" title="暗黑"></button>
         </div>
       </div>
     </header>
@@ -61,16 +70,21 @@
         </div>
       </div>
 
-      <div class="tool-group">
+      <div class="tool-group tool-group-right">
         <button id="offline-album-btn" class="ghost-btn" aria-label="离线缓存当前相册" disabled>离线当前相册</button>
         <button id="offline-manager-btn" class="ghost-btn" aria-label="查看离线任务">离线管理</button>
       </div>
     </section>
 
     <div id="gallery-view">
-      <div id="welcome-message" class="card">
-        <h2>欢迎来到我的相册</h2>
-        <p>点击左上角按钮 ☰ 打开导航，选择相册开始浏览。</p>
+      <div id="welcome-message" class="card hero-card">
+        <h2>欢迎来到幻光相册</h2>
+        <p>点击左上角菜单打开导航，选择一个相册开始浏览。支持离线缓存、全屏预览和流畅的手势交互。</p>
+        <div class="hero-hints">
+          <span>· 左右轻扫切换图片</span>
+          <span>· 双击在适屏 / 原始尺寸间切换</span>
+          <span>· 多种主题，切换不同氛围</span>
+        </div>
       </div>
 
       <div id="gallery-container" aria-live="polite"></div>
@@ -116,7 +130,7 @@
     <div class="modal">
       <div class="modal-header">
         <h3>离线管理</h3>
-        <div style="display:flex;gap:8px;align-items:center">
+        <div class="modal-header-actions">
           <button id="purge-all-btn" class="mini-btn danger" aria-label="清空所有缓存">清空所有缓存</button>
           <button id="offline-manager-close" class="modal-close" aria-label="关闭">×</button>
         </div>
